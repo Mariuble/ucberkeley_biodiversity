@@ -1,0 +1,617 @@
+Cedar Creek Ecosystem Science Reserve Dataset: aale141
+
+Cedar Creek Ecosystem Science Reserve
+2660 Fawn Lake Dr. NE
+Bethel, MN 55005
+Office:  763-434-5131
+Fax:  763-434-7361
+
+_________________________________________________________________________
+
+USER AGREEMENT:  As a condition for access to data provided by researchers of the Cedar Creek LTER, I agree to abide by the following code of ethics.
+
+A. I agree to notify the Cedar Creek LTER scientists who gathered data if I would like to use those data in any publication. I acknowledge that these data were gathered by Cedar Creek scientists because they had already perceived the importance of these data for a variety of scientific and societal issues. I will provide them with formal recognition that, at their discretion, may include co-authorship or acknowledgements on publications.
+
+B. I realize that the researchers who gathered these data may be using them for scientific analyses, papers or publications that are currently planned or in preparation, and that such activities have precedence over any that I might wish to prepare. In this case, my preparation of any work may be delayed, at the option of the Cedar Creek researchers involved, until their work is completed.
+
+C. Because it may be possible to misinterpret a data set if it is taken out of context, I will seek the assistance and opinion of those Cedar Creek researchers involved in the design of a study and the collection of the data as I analyze the data. Moreover, I realize that this computer data set is not complete, and it may contain errors. The complete data set includes extensive written documentation, which should be referenced to reduce the chance of errors in data and errors of interpretation.
+
+_________________________________________________________________________
+
+
+
+BioCON (Biodiversity, CO2, and Nitrogen) is an ecological experiment started in 1997 at the University of Minnesota's Cedar Creek Ecosystem Science Reserve. BioCON's goal is to explore the ways in which plant communities will respond to three environmental changes that are known to be occurring on a global scale: increasing nitrogen deposition, increasing atmospheric CO2, and decreasing biodiversity.
+
+Why Biodiversity, CO2, and Nitrogen?
+
+While there are many uncertainties in global change biology, there are also some well documented facts.  Some of these are:
+
+1. The amount of carbon dioxide (CO2) in the atmosphere is rising.  Since the industrial revolution, the CO2 concentration in the atmosphere has increased from approximately 275 parts per million (ppm) to about 378 ppm today.  This has been largely the result of fossil fuel burning.  It is expected that CO2 levels will continue to rise, and that by the year 2050 these levels will be approximately 550 ppm.  CO2 is the raw material for photosynthesis and is known to affect plant growth and development.
+
+2. The amount of nitrogen moving through terrestrial ecosystems has increased in the recent past.  While natural "background" levels of nitrogen fixation have remained constant, human additions to the system through fertilizer production and fossil fuel use have increased dramatically.  Nitrogen is a key nutrient for plant growth and plays a critical role in plant community structure and composition in many environments.
+
+3. Biodiversity levels are falling. While the research and data are not as complete as they are for CO2 and nitrogen, data indicate that the number of species globally, is being reduced. Perhaps more important for ecosystem function, diversity levels on local to regional scales have fallen due to land use change, biotic invasion and many other drivers.
+
+While much is known about how each of these factors affects ecosystem functioning, many questions remain.  There is also little data on how these issues affect each other, and what emergent qualities may arise when systems are exposed to these changes simultaneously.  BioCON seeks to address these issues with this multi-year study at Cedar Creek Ecosytem Science Preserve.
+
+_________________________________________________________________________
+
+METHODS AND PROTOCOLS FOLLOW DATA
+
+
+Experiment Investigators:
+
+Reich, Peter 
+Hobbie, Sarah 
+Montgomery, Rebecca 
+ 
+
+ATTRIBUTES:
+
+Field 1 | Name: Year | Definition: Year 
+Field 2 | Name: Experiment | Definition: CDR experiment number 
+Field 3 | Name: Plant ID | Definition: Plant Identifier 
+Field 4 | Name: Maternal Plot | Definition: E141 plot from which seeds were collected 
+Field 5 | Name: Maternal CO2 | Definition: CO2 treatment corresponding to the plot from which the L. perennis seeds were collected 
+Field 6 | Name: Maternal N | Definition: N treatment corresponding to the plot from which the L. perennis seeds were collected 
+Field 7 | Name: Offspring ring | Definition: Ring into which the experimental offspring plants were placed 
+Field 8 | Name: Offspring CO2 | Definition: CO2 treatment in the ring in which the experimental offspring plants were placed 
+Field 9 | Name: Seed mass | Definition: mass of the planted seed (g) | Unit: gram 
+Field 10 | Name: # seeds germinated | Definition: # (out of 4 planted) of seeds that germinated | Unit: dimensionless 
+Field 11 | Name: Mean emergence date | Definition: Mean (of all seedlings in the pot) # of days between seed sowing and emergence | Unit: dimensionless 
+Field 12 | Name: June Height | Definition: Mean height (mm) | Unit: millimeter 
+Field 13 | Name: June leaf # | Definition: Mean # leaves per plant | Unit: dimensionless 
+Field 14 | Name: July Height | Definition: Mean height (mm) | Unit: millimeter 
+Field 15 | Name: July leaf # | Definition: Mean # leaves per plant | Unit: dimensionless 
+Field 16 | Name: August Height | Definition: Mean height (mm) | Unit: millimeter 
+Field 17 | Name: # of plants September | Definition: # of plants per pot at final harvest | Unit: dimensionless 
+Field 18 | Name: September culm # | Definition: Mean # of culms per plant at final harvest | Unit: dimensionless 
+Field 20 | Name: Aboveground biomass | Definition: mass of aboveground biomass (g) at harvest (ca. 3 months post germination) | Unit: gram 
+Field 29 | Name: September Height | Definition: Mean height (mm) | Unit: millimeter 
+
+
+Data:
+
+Year	Experiment	Plant ID	Maternal plot	Maternal CO2	Maternal N	Offspring ring	Offspring CO2	Seed mass	# seeds germinated	Mean emergence date	June Height	June leaf #	July Height	July leaf #	August height	# plants September	September mean culm #	September height	Aboveground biomass2006	E141	3675	33	high	low	2	low	0.0003813	1	16	25	3	42	2	100	1	1	76	0.022006	E141	4658	52	high	high	4	low	0.0004814	2	13	24			1	20	1	1	26	0.012006	E141	4112	175	high	high	3	high	0.00035255	1	23	16.5	3	42	3	35	1	1	63	0.042006	E141	5658	180	high	high	6	low	0.0003905	2	12	24.5	1	27	3	45	1	1	47	0.032006	E141	4858	30	high	high	4	low	0.0004015	1	16		1	31	2	63	1	2	55	0.022006	E141	4174	45	high	low	3	high	0.000368	1	13		1	20	2	30	1	2	40	0.022006	E141	5046	52	high	high	5	high	0.0004814	1	19	9			1	20	1	2	40	0.012006	E141	4526	64	low	high	4	low	0.00033695	2	19	10	1	33	3	58	1	2	59	0.052006	E141	3098	213	low	high	1	high	0.0002826	1	16	20	3.5	56	4.5	89	2	5	82.5	0.442006	E141	5657	23	high	low	6	low	0.00046455	2	12	24	1	24	1	28	1	3	23	0.042006	E141	4687	45	high	low	4	low	0.000368	1	10	16	2	36	2	59	1	3	52	0.12006	E141	3912	107	low	low	2	low	0.00037365	3	16.667	19.5	1	29	2	43	1	3	46	0.052006	E141	3250	151	high	high	1	high	0.000623	2	13	28	1	21	2	35	1	3	50	0.032006	E141	3960	213	low	high	2	low	0.0002826	3	13	23.667	1	24	2	50	1	3	50	0.062006	E141	4600	234	low	high	4	low	0.0003086	3	13	19			2	30	1	3	50	0.062006	E141	4655	234	low	high	4	low	0.0003086	1	16	10	3	45	4	65	1	3	62	0.092006	E141	3340	236	low	high	1	high	0.00036825	1	23	6	2	10	3	40	1	3	56	0.092006	E141	5113	250	high	low	5	high	0.00047345	1	16	9	1	29	1	67	1	3	64	0.042006	E141	3041	344	low	low	1	high	0.00044095	4	14.75	23.333			2.333	62.333	1	3	68	0.112006	E141	4198	272	high	low	3	high	0.00034035	3	16	14.667	1.5	42.5	3.5	62.5	2	3.5	78	0.22006	E141	5639	236	low	high	6	low	0.00036825	2	12		1.5	22.5	3	53	2	4	51	0.182006	E141	3022	358	low	low	1	high	0.000423	2	10.5	22.5	4	72	4.5	94	2	4	90	0.642006	E141	4648	151	high	high	4	low	0.000623	2	9	20	3	15.5	2.5	45.5	2	4.5	46	0.172006	E141	3070	306	low	low	1	high	0.000445	3	12	15	4	73	4	139	2	4.5	139.5	0.432006	E141	5144	118	low	high	5	high	0.0002946	3	14.333	27.5	4.5	90.5	4	120	2	6	114.5	0.572006	E141	4647	23	high	low	4	low	0.00046455	1	16	9	1	25	3	41	1	4	42	0.052006	E141	5116	23	high	low	5	high	0.00046455	2	20	16	2	33	4	61	1	4	54	0.212006	E141	3681	30	high	high	2	low	0.0004015	1	8	40	4	73	4	80	1	4	81	0.142006	E141	5472	30	high	high	6	low	0.0004015	1	16	20			3	76	1	4	72	0.062006	E141	4710	43	high	high	4	low	0.00044675	1	8	25	3	53	4	65	1	4	64	0.182006	E141	3488	67	low	low	2	low	0.00027515	3	16	22	3	20	2	52	1	4	51	0.052006	E141	3024	107	low	low	1	high	0.00037365	2	19		1	32	2	81	1	4	83	0.072006	E141	5604	110	low	high	6	low	0.00033975	1	8	33	2	40	3	71	1	4	65	0.122006	E141	5257	147	high	low	5	high	0.00040395	2	13	25	3	62	4	114	1	4	113	0.162006	E141	4134	173	high	low	3	high	0.00047235	1	16		3	65	4	111	1	4	122	0.232006	E141	5045	175	high	high	5	high	0.00035255	3	17	11.5	3	38	3	65	1	4	90	0.172006	E141	3685	184	low	low	2	low	0.0002815	2	13	22.5	3	70	3	97	1	4	95	0.182006	E141	5408	201	low	low	6	low	0.00026945	2	15	29	2	30	2	69	1	4	70	0.12006	E141	5635	270	high	low	6	low	0.00037085	2	14.5	25			2	38	1	4	52	0.062006	E141	3699	283	high	low	2	low	0.0004155	3	15	24	5	70	7	85	1	4	84	0.262006	E141	3643	306	low	low	2	low	0.000445	1	10	30	3	40	5	69	1	4	90	0.172006	E141	5132	306	low	low	5	high	0.000445	1	8	38	4	80	4	90	1	4	96	0.222006	E141	5194	306	low	low	5	high	0.000445	1	8	25	4	105	4	91	1	4	102	0.22006	E141	5842	306	low	low	6	low	0.000445	3	12	27.667	3	45	4	78	1	4	73	0.082006	E141	3580	311	low	high	2	low	0.0006138	3	14	23	3.5	43.5	3.5	65.5	1	4	75	0.352006	E141	3614	355	low	low	2	low	0.00047675	1	10	23	3	25	3	55	1	4	70	0.12006	E141	4643	358	low	low	4	low	0.000423	3	11.667	25	1	34	2	53	1	4	50	0.082006	E141	5719	253	high	high	6	low	0.00056305	3	9.333	33.333	4	67.5	4	54	2	3	62	0.452006	E141	5321	267	high	high	5	high	0.0004883	4	13.5	34.667	4	56	3.667	72	3	4.667	70.333	0.492006	E141	4398	13	high	high	3	high	0.0004603	1	16	15	3	75	6	105	1	5	100	0.442006	E141	5214	107	low	low	5	high	0.00037365	1	19	13	1	32	3	73	1	5	64	0.132006	E141	5360	107	low	low	5	high	0.00037365	3	16	15.667	2	42	3	62	1	5	85	0.272006	E141	5852	107	low	low	6	low	0.00037365	2	15	17	1	15	3	44	1	5	57	0.072006	E141	4652	118	low	high	4	low	0.0002946	2	18	31	3	52	6	82	1	5	85	0.172006	E141	5034	188	low	low	5	high	0.0002999	1	19	13	2	37	3	59	1	5	52	0.162006	E141	4572	201	low	low	4	low	0.00026945	1	10	25	3	19	5	35	1	5	44	0.072006	E141	5519	201	low	low	6	low	0.00026945	1	8	39	4	75	5	110	1	5	110	0.332006	E141	4314	205	low	high	3	high	0.0003035	1	10	27	2	88	5	120	1	5	125	0.222006	E141	3133	250	high	low	1	high	0.00047345	2	21	13	2	17	4	69	1	5	66	0.162006	E141	3247	250	high	low	1	high	0.00047345	2	19.5	18	1	11	2	43	1	5	55	0.072006	E141	3655	253	high	high	2	low	0.00056305	1	8	53	5	89	5	94	1	5	92	0.322006	E141	4949	270	high	low	5	high	0.00037085	2	16	20.5	4	61	5	100	1	5	96	0.442006	E141	3610	358	low	low	2	low	0.000423	4	11	24.667	4	45	5.5	63	2	5	60.5	0.372006	E141	5102	283	high	low	5	high	0.0004155	2	8	28.5	4	82	4.5	94.5	2	5.5	102.5	0.862006	E141	4935	321	low	high	5	high	0.00038185	3	14	19.333	4	62	5.5	81	2	7	75	0.612006	E141	3095	43	high	high	1	high	0.00044675	2	17.5	24	2	57	3	137	1	6	135	0.222006	E141	4070	43	high	high	3	high	0.00044675	2	13	24	3	50	4	118	1	6	115	0.272006	E141	3101	67	low	low	1	high	0.00027515	1	16	10	3	42	4	100	1	6	98	0.242006	E141	4207	108	low	high	3	high	0.0005085	1	16	14	3	33	4	85	1	6	103	0.252006	E141	4472	110	low	high	4	low	0.00033975	2	8	18	2	30	4	50	1	6	63	0.122006	E141	5614	147	high	low	6	low	0.00040395	1	16	14	2	50	4	99	1	6	101	0.192006	E141	4517	173	high	low	4	low	0.00047235	1	8	39	4	32	5	55	1	6	55	0.212006	E141	3063	179	high	low	1	high	0.00039175	1	10	30	3	79	2	131	1	6	138	0.582006	E141	4375	180	high	high	3	high	0.0003905	1	10	22	2	70	6	138	1	6	132	0.442006	E141	3065	201	low	low	1	high	0.00026945	1	13	20	2	37		81	1	6	92	0.172006	E141	4218	205	low	high	3	high	0.0003035	1	10	19	4	60	6	68	1	6	74	0.372006	E141	5211	205	low	high	5	high	0.0003035				2	60	3	90	1	6	85	0.172006	E141	5784	205	low	high	6	low	0.0003035	2	12	28	4	60	4	62	1	6	64	0.152006	E141	3004	213	low	high	1	high	0.0002826	2	18	29			7	111	1	6	113	0.552006	E141	3318	213	low	high	1	high	0.0002826	2	12	25	3	10	3	32	1	6	52	0.132006	E141	4235	234	low	high	3	high	0.0003086	1	8	37	5	110	7	125	1	6	15	0.742006	E141	3285	267	high	high	1	high	0.0004883	1	8	21	4	48	5	82	1	6	88	0.382006	E141	4205	270	high	low	3	high	0.00037085	1	10	24	4	54	5	82	1	6	33	0.252006	E141	4965	272	high	low	5	high	0.00034035	3	16.333	23	2	50	3	105	1	6	110	0.242006	E141	4226	275	high	high	3	high	0.00035105	1	3	22	4	68	8	98	1	6	90	0.522006	E141	5770	275	high	high	6	low	0.00035105	3	14	26.667	3	50	5	110	1	6	512006	E141	3364	283	high	low	1	high	0.0004155	3	11.333	15	4	90	7	99	1	6	92	0.552006	E141	3516	301	high	high	2	low	0.0004512	2	13	26.5	3	68	4	70	1	6	68	0.152006	E141	3737	321	low	high	2	low	0.00038185	2	11.5	18	4	52	6	81	1	6	79	0.242006	E141	3148	355	low	low	1	high	0.00047675	2	18	15	3	32	4	81	1	6	95	0.152006	E141	5407	355	low	low	6	low	0.00047675	2	9	20	3	52	4	79	1	6	83	0.272006	E141	5650	358	low	low	6	low	0.000423	3	10	30.5	3.5	55	3.5	63.5	2	6.5	55	0.462006	E141	4310	283	high	low	3	high	0.0004155	3	9.667	32.667	3.667	67.667	5	93.667	3	6.333	91.667	1.182006	E141	4143	45	high	low	3	high	0.000368	2	14	14	3	77	7	130	1	7	119	0.62006	E141	4194	45	high	low	3	high	0.000368	1	13	25	4	82	7	107	1	7	103	0.512006	E141	5137	130	high	high	5	high	0.0004505	1	10	20	3	68	5	104	1	7	102	0.522006	E141	5505	147	high	low	6	low	0.00040395	2	11.5	26.5	2.5	35	3	58.5	1	7	72	0.232006	E141	5549	179	high	low	6	low	0.00039175	1	19	15	3	44	6	91	1	7	90	0.192006	E141	3188	188	low	low	1	high	0.0002999	1	8	8	3	31	5	60	1	7	56	0.222006	E141	3973	201	low	low	3	high	0.00026945	1	10	25	3	93	9	162	1	7	169	0.642006	E141	4192	201	low	low	3	high	0.00026945	1	8	35	6	92	9	98	1	7	90	0.512006	E141	5055	250	high	low	5	high	0.00047345	1	10	23	4	75	5	125	1	7	120	0.552006	E141	4434	306	low	low	3	high	0.000445	2	15	22	3	91	6	138	1	7	136	0.462006	E141	3080	344	low	low	1	high	0.00044095	2	18	32	5	74	6	130	1	7	117	0.52006	E141	4062	355	low	low	3	high	0.00047675	1	8	34	4	94	7	97	1	7	101	0.392006	E141	5377	147	high	low	5	high	0.00040395	1	16	20	5	79	5	139	1	8	146	0.362006	E141	3448	173	high	low	1	high	0.00047235	1	8	30	4	90	5	124	1	8	112	0.692006	E141	4027	213	low	high	3	high	0.0002826	2	10	28.5	5	103	8	120	1	8	120	0.72006	E141	5857	213	low	high	6	low	0.0002826	1	10	20	3	59	4	56	1	8	74	0.172006	E141	3415	236	low	high	1	high	0.00036825	3	18.667	20	3	33	4	70	1	8	82	0.382006	E141	4878	301	high	high	4	low	0.0004512	1	8	37	5	50	6	70	1	8	70	0.462006	E141	3035	321	low	high	1	high	0.00038185	2	13	16.5	3	36	6	112	1	8	113	0.262006	E141	3599	321	low	high	2	low	0.00038185	1	8	34	6	55	7	95	1	8	89	0.332006	E141	3179	52	high	high	1	high	0.0004814	1	13	28	4	86	7	118	1	9	110	0.322006	E141	3561	180	high	high	2	low	0.0003905	1	8	30	4	58	7	90	1	9	84	0.422006	E141	5024	213	low	high	5	high	0.0002826	1	13	18	4	49	5	90	1	9	84	0.772006	E141	3465	236	low	high	1	high	0.00036825	2	16.5	19	4	74	4	100	1	9	100	0.542006	E141	4795	253	high	high	4	low	0.00056305	1	8	25	4	58	6	84	1	9	88	0.372006	E141	3423	275	high	high	1	high	0.00035105	1	10	9	1	40	4	65	1	9	67	0.262006	E141	4381	283	high	low	3	high	0.0004155	2	15	17.5	3	50	6	85	1	9	90	0.522006	E141	4937	108	low	high	5	high	0.0005085	4	11	22.75	4	66	5	95	2	8.5	94	0.692006	E141	5440	45	high	low	6	low	0.000368	3	10.667	50	6	97	9	126	1	10	109	0.482006	E141	5848	272	high	low	6	low	0.00034035	1	10	25	4	62	6	101	1	10	105	0.292006	E141	5221	283	high	low	5	high	0.0004155	1	8	34	6	108	6	129	1	10	122	0.692006	E141	5460	283	high	low	6	low	0.0004155	1	10	20	5	50			1	10	57	0.42006	E141	4393	301	high	high	3	high	0.0004512	1	16	14	2	29	4	80	1	10	93	0.32006	E141	5451	151	high	high	6	low	0.000623	1	8	38	6	60	5	90	1	11	80	0.352006	E141	5090	201	low	low	5	high	0.00026945	1	13	28	5	83	5	134	1	11	125	0.672006	E141	5443	283	high	low	6	low	0.0004155	1	8	31	5	68	6	70	1	11	64	0.592006	E141	5077	205	low	high	5	high	0.0003035	1	8	26	3	95			1	12	142	0.522006	E141	5339	184	low	low	5	high	0.0002815	1	8	31.5	8	80	6	119	1	13	117	0.622006	E141	4330	13	high	high	3	high	0.0004603	2	19	13					02006	E141	5289	13	high	high	5	high	0.0004603	3	15	10	1	23	2	45	02006	E141	5465	13	high	high	6	low	0.0004603	1	13	14					02006	E141	5825	13	high	high	6	low	0.0004603	1	19	10					02006	E141	5004	23	high	low	5	high	0.00046455	2	14.5	15.5	2.5	33	4	85	1			0.412006	E141	3567	30	high	high	2	low	0.0004015	1	13	30					02006	E141	3828	30	high	high	2	low	0.0004015	2	17.5	22.5					02006	E141	3985	30	high	high	3	high	0.0004015	2	13	27.5					02006	E141	4807	30	high	high	4	low	0.0004015	1	10	6					02006	E141	5036	30	high	high	5	high	0.0004015	2	16	14					02006	E141	3438	33	high	low	1	high	0.0003813	1	13	20					02006	E141	4456	33	high	low	4	low	0.0003813	1	16	16					02006	E141	4506	33	high	low	4	low	0.0003813	2	16	13					02006	E141	5103	33	high	low	5	high	0.0003813	2	15.5	19					02006	E141	5146	33	high	low	5	high	0.0003813	1	16	18					02006	E141	3716	43	high	high	2	low	0.00044675	1	13	26					02006	E141	5345	43	high	high	5	high	0.00044675	2	14.5	25	4	95	5	126	02006	E141	5057	45	high	low	5	high	0.000368	2	15	23.5	4	62.5	4	125.5	02006	E141	4035	51	high	low	3	high	0.0004384	2	17.5	16					02006	E141	3502	52	high	high	2	low	0.0004814	1	16	16					02006	E141	4555	52	high	high	4	low	0.0004814	1	16	19					02006	E141	5435	52	high	high	6	low	0.0004814	2	15	37					02006	E141	3853	64	low	high	2	low	0.00033695	2	13.5	23					02006	E141	4408	64	low	high	3	high	0.00033695	1	19	4					02006	E141	4844	64	low	high	4	low	0.00033695	1	13	20					02006	E141	4863	64	low	high	4	low	0.00033695	1	23	6					02006	E141	5288	64	low	high	5	high	0.00033695	3	19.333	8					02006	E141	3176	67	low	low	1	high	0.00027515	1	16	11					02006	E141	3686	67	low	low	2	low	0.00027515	1	16	18.5					02006	E141	3964	69	low	low	3	high	0.0003355	2	13	17.5					02006	E141	4748	69	low	low	4	low	0.0003355	1	13	20					02006	E141	4762	69	low	low	4	low	0.0003355	1	19	10					02006	E141	4948	69	low	low	5	high	0.0003355	2	9	15					02006	E141	4980	69	low	low	5	high	0.0003355	1	8	14					02006	E141	3342	104	low	low	1	high	0.00041645	1	23	13					02006	E141	3548	104	low	low	2	low	0.00041645	1	19	20					02006	E141	3633	104	low	low	2	low	0.00041645	2	14.5	18					02006	E141	4465	104	low	low	4	low	0.00041645	2	12	18					02006	E141	4602	104	low	low	4	low	0.00041645	4	14.5	14.5					02006	E141	5513	104	low	low	6	low	0.00041645	3	16	22					02006	E141	4281	107	low	low	3	high	0.00037365	1	16	11					02006	E141	4951	107	low	low	5	high	0.00037365	1	8	29					02006	E141	3543	108	low	high	2	low	0.0005085	3	17	18.5					02006	E141	4452	108	low	high	4	low	0.0005085	2	12	25	1	12			02006	E141	4454	108	low	high	4	low	0.0005085	2	8	22					02006	E141	4613	108	low	high	4	low	0.0005085	1	13	15					02006	E141	5020	108	low	high	5	high	0.0005085	1	19	10					02006	E141	3500	110	low	high	2	low	0.00033975	1	16	19					02006	E141	3734	110	low	high	2	low	0.00033975	1	16	24					02006	E141	3975	110	low	high	3	high	0.00033975	1	13	15					02006	E141	4412	110	low	high	3	high	0.00033975	2	13	26					02006	E141	5662	110	low	high	6	low	0.00033975	1	10	39	2	22			02006	E141	3105	118	low	high	1	high	0.0002946	1	13	22	2	38	3	97	1			0.112006	E141	3389	118	low	high	1	high	0.0002946	1	23	16					02006	E141	5620	118	low	high	6	low	0.0002946	1	16	21			1	20	02006	E141	5648	118	low	high	6	low	0.0002946	3	15	16.5					02006	E141	5878	118	low	high	6	low	0.0002946	2	17.5	24					02006	E141	3197	147	high	low	1	high	0.00040395	1	16	17					02006	E141	4213	147	high	low	3	high	0.00040395	1	13	14					02006	E141	4622	147	high	low	4	low	0.00040395	1	13	19	4	55	4	88	02006	E141	4929	147	high	low	5	high	0.00040395	2	17.5	10					02006	E141	5716	147	high	low	6	low	0.00040395	1	13	22	3	59	3	95	1			0.182006	E141	5806	147	high	low	6	low	0.00040395	2	13	17.5					02006	E141	3408	151	high	high	1	high	0.000623	1	26	1					02006	E141	5558	151	high	high	6	low	0.000623	1	8	29					02006	E141	5813	151	high	high	6	low	0.000623	1	13	23					02006	E141	3931	173	high	low	2	low	0.00047235	1	26	13					02006	E141	4447	173	high	low	4	low	0.00047235	1	16						02006	E141	4782	173	high	low	4	low	0.00047235	1	13	31					02006	E141	5799	173	high	low	6	low	0.00047235	1	8	25			1	50	02006	E141	4569	175	high	high	4	low	0.00035255	1	13		1	20	1	30	02006	E141	5109	175	high	high	5	high	0.00035255	1	10	8					02006	E141	3118	179	high	low	1	high	0.00039175	1	23	6					02006	E141	3896	179	high	low	2	low	0.00039175	2	19	13.5					02006	E141	4625	179	high	low	4	low	0.00039175	1	10	20					02006	E141	4745	179	high	low	4	low	0.00039175	1	19	16					02006	E141	4754	179	high	low	4	low	0.00039175	1	13	22					02006	E141	5405	179	high	low	6	low	0.00039175	2	22.5	13					02006	E141	5800	179	high	low	6	low	0.00039175	1	8	20					02006	E141	3664	180	high	high	2	low	0.0003905	2	13	10					02006	E141	3683	180	high	high	2	low	0.0003905	1	10	25					02006	E141	4316	180	high	high	3	high	0.0003905	1	16	14					02006	E141	5177	180	high	high	5	high	0.0003905	2	17.5	10					02006	E141	3647	184	low	low	2	low	0.0002815	1	16	9					02006	E141	5701	184	low	low	6	low	0.0002815	1	13	24					02006	E141	4530	188	low	low	4	low	0.0002999	1	16	10					02006	E141	5007	201	low	low	5	high	0.00026945	1	16	15					02006	E141	5421	201	low	low	6	low	0.00026945	1	23	29					02006	E141	4509	205	low	high	4	low	0.0003035	1	19	25					02006	E141	4806	205	low	high	4	low	0.0003035	1	8	15					02006	E141	5877	205	low	high	6	low	0.0003035	1	19	15					02006	E141	3135	213	low	high	1	high	0.0002826	1	16	9					02006	E141	3604	213	low	high	2	low	0.0002826	2	12	21	1	21	1	22	02006	E141	5610	213	low	high	6	low	0.0002826	3	17.333	18.667					02006	E141	5185	234	low	high	5	high	0.0003086	2	14.5	27					02006	E141	5824	234	low	high	6	low	0.0003086	1	19	12					02006	E141	3122	236	low	high	1	high	0.00036825	1	13	14	2	11	5	62	1			0.22006	E141	3232	236	low	high	1	high	0.00036825	3	13.333	24					02006	E141	4388	236	low	high	3	high	0.00036825	1	16	8					02006	E141	5778	236	low	high	6	low	0.00036825	1	10	25	1	21			02006	E141	4520	253	high	high	4	low	0.00056305	2	12	26					02006	E141	5613	253	high	high	6	low	0.00056305	1	16	15					02006	E141	5823	253	high	high	6	low	0.00056305	1	26	10					02006	E141	3469	267	high	high	1	high	0.0004883	1	16	5					02006	E141	5423	267	high	high	6	low	0.0004883	1	19	15	3	30	1	35	02006	E141	5445	270	high	low	6	low	0.00037085	1	19	21					02006	E141	4972	272	high	low	5	high	0.00034035	4	10.75	34	5	94.333	3.333	61	02006	E141	5636	275	high	high	6	low	0.00035105	2	16	17			2	16	02006	E141	3854	301	high	high	2	low	0.0004512	2	14	35					02006	E141	4565	301	high	high	4	low	0.0004512	1	8	25					02006	E141	4385	306	low	low	3	high	0.000445	1	13	30					02006	E141	3648	307	low	high	2	low	0.0004528	2	15	21					02006	E141	3821	307	low	high	2	low	0.0004528	2	17.5	10					02006	E141	4427	307	low	high	3	high	0.0004528	2	14.5	13					02006	E141	4470	307	low	high	4	low	0.0004528	1	10	11					02006	E141	4589	307	low	high	4	low	0.0004528	2	10	18					02006	E141	5130	307	low	high	5	high	0.0004528	1	23	13					02006	E141	5299	307	low	high	5	high	0.0004528	1	26	10					02006	E141	5343	307	low	high	5	high	0.0004528	2	20	19					02006	E141	3114	311	low	high	1	high	0.0006138	1	8	19	4	31	6	84	1			0.422006	E141	5737	311	low	high	6	low	0.0006138	1	16	21					02006	E141	3106	321	low	high	1	high	0.00038185	3	12	16					02006	E141	4529	321	low	high	4	low	0.00038185	1	16	20					02006	E141	4930	321	low	high	5	high	0.00038185	1	16	19					02006	E141	3513	344	low	low	2	low	0.00044095	2	13	10					02006	E141	4581	344	low	low	4	low	0.00044095	1	16	10					1			0.162006	E141	4953	344	low	low	5	high	0.00044095	3	19	14					02006	E141	3219	355	low	low	1	high	0.00047675	1	16	20					02006	E141	5370	355	low	low	5	high	0.00047675	1	19	12					02006	E141	5746	355	low	low	6	low	0.00047675	1	13	39					02006	E141	3254	358	low	low	1	high	0.000423	1	16	15					02006	E141	3721	358	low	low	2	low	0.000423	1	19	3					02006	E141	4660	358	low	low	4	low	0.000423	1	16	8	1	15			0
+
+_________________________________________________________________________
+
+
+Methods and Protocols:
+
+
+Dataset Methods:
+
+
+Growth measures Transgenerational Effects Poa pratensis
+
+We measured plant height, leaf number and culm number monthly throughout the growing season.  After approximately 3 months of growth, all plants were harvested and aboveground biomass was weighed after drying for 2 days at 60C.  
+
+______________
+
+Sampling Method Transgenerational Effects 
+
+In Fall 2002, seeds were collected from a single maternal plant of each species in each of the 16 species plots in the BioCON experiment.  In Spring 2006, these seeds were then planted into pots and placed into the BioCON experiment under ambient or elevated CO2 conditions.  One Lupinus seed was planted into each plot.  Four Poa and Schizachyrium seeds were planted into each plot; therefore, the Poa and Schizachyrium data are mean values of the 1-4 individuals per pot (depending on how many germinated).
+
+______________
+
+Experiment Methods:
+
+Initial species planted into plots
+
+1 indicates species was planted in 1997, 0 indicates not planted
+
+Plot	Ring	Achillea millefolium	Agropyron repens	Amorpha canescens	Andropogon gerardi	Anemone cylindrica	Asclepias tuberosa	Bouteloua gracilis	Bromus inermis	Koeleria cristata	Lespedeza capitata	Lupinus perennis	Petalostemum villosum	Poa pratensis	Schizachyrium scoparium 	Solidago rigida	Sorghastrum nutans
+1	1	1	0	0	0	0	1	0	0	1	0	0	0	1	0	0	0
+2	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+3	1	0	0	1	0	0	0	0	0	0	1	1	1	0	0	0	0
+4	1	0	0	0	0	1	1	0	0	0	0	0	1	0	0	0	1
+5	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+6	1	0	0	0	1	0	0	1	0	0	0	0	0	0	1	0	1
+7	1	0	1	1	0	1	1	1	0	0	0	1	1	0	0	1	1
+8	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+9	1	0	1	0	0	0	0	0	1	1	0	0	0	1	0	0	0
+10	1	1	0	0	0	1	0	0	0	1	0	0	0	0	0	0	1
+11	1	1	0	0	0	0	0	1	1	1	1	1	0	0	1	1	1
+12	1	1	0	0	1	0	1	1	1	0	1	0	1	0	1	0	1
+13	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+14	1	0	0	0	0	1	0	0	0	0	0	0	1	1	1	0	0
+15	1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	1	1
+16	1	1	1	0	0	1	1	0	0	0	1	0	1	0	1	1	1
+17	1	0	1	1	1	1	1	0	0	1	1	0	1	0	0	1	0
+18	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+19	1	0	0	0	0	0	0	0	1	0	1	0	0	0	1	0	1
+20	1	1	0	0	0	1	1	0	0	0	0	0	0	0	0	1	0
+21	1	0	1	1	1	0	1	0	1	0	0	0	1	1	1	0	1
+22	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+23	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+24	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+25	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+26	1	1	1	1	0	0	0	1	0	1	0	1	0	1	1	0	1
+27	1	1	0	0	0	1	1	0	0	0	0	0	0	0	0	1	0
+28	1	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	1
+29	1	0	0	1	0	1	1	0	0	0	0	1	0	0	0	0	0
+30	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+31	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+32	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+33	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+34	1	1	1	1	1	1	0	1	1	0	1	1	0	0	0	0	0
+35	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+36	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+37	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+38	1	0	0	0	1	0	0	0	0	0	0	1	1	0	0	0	1
+39	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+40	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+41	1	0	1	0	0	0	0	0	1	1	0	0	0	1	0	0	0
+42	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+43	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+44	1	0	0	0	0	0	0	0	0	0	0	1	1	0	0	1	1
+45	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+46	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+47	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+48	1	1	1	1	0	0	1	0	1	0	1	1	0	1	1	0	0
+49	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+50	1	0	0	0	1	1	1	1	0	1	0	1	0	1	1	1	0
+51	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+52	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+53	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+54	1	0	0	0	1	0	0	1	0	0	0	0	0	0	1	0	1
+55	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+56	1	0	0	1	0	0	0	0	0	0	1	1	1	0	0	0	0
+57	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+58	1	0	1	0	0	0	0	0	0	0	0	1	0	1	0	1	0
+59	1	0	0	0	0	0	0	1	1	0	0	0	1	0	0	1	0
+60	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+61	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+62	2	0	0	1	0	0	0	0	0	1	0	0	0	0	1	1	0
+63	2	0	0	0	0	0	0	1	0	0	0	0	0	1	0	1	1
+64	2	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+65	2	1	1	1	0	0	0	1	0	1	0	1	0	0	1	1	1
+66	2	0	0	0	0	1	1	1	1	1	1	1	0	0	1	0	1
+67	2	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+68	2	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+69	2	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+70	2	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+71	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+72	2	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+73	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+74	2	0	0	1	0	0	0	0	0	0	1	1	1	0	0	0	0
+75	2	0	0	1	0	1	0	0	0	0	0	1	0	0	1	0	0
+76	2	0	0	0	1	0	0	1	0	0	0	0	0	0	1	0	1
+77	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+78	2	1	0	0	0	1	0	0	0	0	0	1	0	0	0	1	0
+79	2	0	1	0	0	0	1	0	1	0	0	0	1	0	0	0	0
+80	2	0	1	0	0	0	0	0	1	1	0	0	0	1	0	0	0
+81	2	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+82	2	0	0	0	0	0	1	0	0	1	0	0	0	1	0	0	1
+83	2	1	1	1	0	1	1	0	0	1	0	1	1	0	1	0	0
+84	2	0	0	1	1	0	1	1	0	0	1	1	1	1	1	0	0
+85	2	0	0	1	0	0	0	1	0	0	1	0	0	0	0	0	1
+86	2	1	0	0	0	0	1	1	0	0	0	0	1	0	0	0	0
+87	2	0	1	1	1	1	0	0	0	0	1	1	1	1	1	0	0
+88	2	0	0	1	0	1	0	0	1	0	0	0	0	0	1	0	0
+89	2	1	0	0	0	1	1	0	0	0	0	0	0	0	0	1	0
+90	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+91	2	1	0	1	1	0	0	0	0	0	0	1	0	0	0	0	0
+92	2	1	0	1	1	1	1	0	1	0	0	0	1	0	0	1	1
+93	2	0	0	1	0	0	0	0	0	0	1	1	1	0	0	0	0
+94	2	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+95	2	1	0	0	0	1	1	0	0	0	0	0	0	0	0	1	0
+96	2	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+97	2	1	1	1	0	0	1	0	1	1	1	0	1	0	0	0	1
+98	2	0	1	0	0	0	0	0	1	1	0	0	0	1	0	0	0
+99	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+100	2	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+101	2	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+102	2	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+103	2	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+104	2	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+105	2	0	0	0	1	0	0	1	0	0	0	0	0	0	1	0	1
+106	2	0	1	0	1	0	1	1	0	1	0	1	0	1	1	0	1
+107	2	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+108	2	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+109	2	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+110	2	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+111	2	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+112	2	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+113	2	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+114	2	0	0	0	0	0	1	0	1	0	1	0	0	0	0	1	0
+115	2	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+116	2	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+117	2	1	1	0	1	1	0	1	1	0	0	0	0	1	0	1	1
+118	2	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+119	2	0	1	0	1	0	0	0	1	1	1	0	1	0	1	1	1
+120	2	1	1	0	0	0	0	0	0	1	0	0	1	0	0	0	0
+121	2	0	1	0	1	0	0	0	0	1	0	0	0	0	1	0	0
+122	2	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+123	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+124	3	0	0	0	1	0	0	1	0	0	0	0	0	0	1	0	1
+125	3	0	0	0	0	0	1	0	0	0	1	0	1	0	0	1	0
+126	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+127	3	0	1	0	0	0	0	0	1	1	1	0	0	0	0	0	0
+128	3	0	0	1	1	1	1	0	1	1	1	0	0	0	1	1	0
+129	3	0	1	0	0	1	0	0	0	0	0	0	0	1	1	0	0
+130	3	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+131	3	1	0	1	0	0	0	0	1	1	1	1	1	0	1	0	1
+132	3	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+133	3	1	0	0	0	0	0	1	1	1	0	0	1	1	1	1	1
+134	3	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+135	3	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+136	3	1	0	0	0	1	1	0	0	0	0	0	0	0	0	1	0
+137	3	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+138	3	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+139	3	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+140	3	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+141	3	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+142	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+143	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+144	3	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+145	3	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+146	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+147	3	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+148	3	0	0	0	1	0	1	0	0	0	1	0	0	0	1	0	0
+149	3	0	1	1	1	0	0	0	0	1	1	1	0	0	1	1	1
+150	3	0	0	1	0	0	0	0	0	0	1	1	1	0	0	0	0
+151	3	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+152	3	0	0	0	1	0	0	1	0	0	0	0	0	0	1	0	1
+153	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+154	3	0	0	0	0	1	0	0	0	0	1	0	0	1	0	0	1
+155	3	1	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1
+156	3	0	0	1	0	1	1	0	0	0	0	0	0	0	0	1	0
+157	3	0	1	0	0	0	0	0	1	1	0	0	0	1	0	0	0
+158	3	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+159	3	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+160	3	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+161	3	0	1	1	1	1	0	0	0	1	1	0	1	1	0	0	1
+162	3	0	1	0	1	0	0	0	1	0	0	0	1	0	0	0	0
+163	3	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+164	3	0	0	0	0	0	0	1	1	0	0	1	0	0	0	1	0
+165	3	0	1	1	1	0	0	1	0	0	1	1	1	1	0	0	1
+166	3	0	1	1	0	0	1	1	0	1	1	0	1	1	0	0	1
+167	3	0	0	0	0	0	0	0	0	0	1	0	1	1	0	1	0
+168	3	0	1	0	0	0	0	0	1	1	0	0	0	1	0	0	0
+169	3	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+170	3	1	0	0	0	1	0	0	1	1	1	0	1	1	1	1	0
+171	3	1	1	0	1	1	0	1	1	1	1	0	0	0	0	0	1
+172	3	1	0	0	0	1	1	0	0	0	0	0	0	0	0	1	0
+173	3	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+174	3	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+175	3	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+176	3	0	0	0	1	0	0	0	0	0	0	1	0	0	0	1	1
+177	3	1	0	0	1	1	1	0	0	1	1	0	1	1	0	1	0
+178	3	1	0	0	1	1	0	0	1	0	0	0	0	0	0	0	0
+179	3	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+180	3	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+181	3	0	0	1	0	0	0	0	0	0	1	1	1	0	0	0	0
+182	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+183	3	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+184	4	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+185	4	0	1	0	1	1	1	0	1	0	1	0	0	0	1	1	1
+186	4	0	0	1	1	0	1	0	1	1	0	1	1	1	0	1	0
+187	4	1	1	1	1	1	0	1	0	1	0	0	0	1	1	0	0
+188	4	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+189	4	0	0	0	0	0	0	0	0	0	0	1	1	1	0	0	1
+190	4	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+191	4	1	0	0	0	0	1	0	0	1	0	0	0	0	0	1	0
+192	4	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+193	4	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	1
+194	4	1	1	1	0	0	1	0	1	0	1	1	0	0	1	0	1
+195	4	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+196	4	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+197	4	1	0	0	1	0	1	1	0	0	0	0	0	0	0	0	0
+198	4	0	0	1	1	0	0	1	0	0	0	0	0	0	0	1	0
+199	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+200	4	1	0	0	0	1	1	0	0	0	0	0	0	0	0	1	0
+201	4	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+202	4	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+203	4	1	0	0	1	0	0	0	1	0	0	0	1	0	0	0	0
+204	4	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+205	4	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+206	4	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0
+207	4	0	0	0	1	0	0	1	0	0	0	0	0	0	1	0	1
+208	4	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+209	4	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+210	4	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+211	4	0	0	0	0	1	0	0	1	1	0	0	0	1	0	0	0
+212	4	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+213	4	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+214	4	1	0	0	0	1	1	0	0	0	0	0	0	0	0	1	0
+215	4	0	1	0	0	0	0	0	1	1	0	0	0	1	0	0	0
+216	4	0	0	0	0	0	0	1	1	0	0	1	0	0	0	1	0
+217	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+218	4	0	0	0	0	0	0	1	0	0	0	0	1	1	0	1	0
+219	4	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+220	4	1	0	0	0	0	0	0	0	0	1	1	0	0	1	0	0
+221	4	0	0	0	1	0	0	1	0	0	0	0	0	0	1	0	1
+222	4	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+223	4	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+224	4	1	1	1	0	0	0	1	0	0	1	0	1	0	1	1	1
+225	4	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+226	4	0	1	0	1	1	0	1	1	1	0	1	0	1	1	0	0
+227	4	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+228	4	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+229	4	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+230	4	1	0	1	1	1	0	0	1	0	1	0	0	1	0	1	1
+231	4	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+232	4	1	1	1	0	1	1	1	0	0	1	0	0	0	0	1	1
+233	4	1	1	0	0	0	0	1	1	1	1	1	0	0	1	0	1
+234	4	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+235	4	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+236	4	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+237	4	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+238	4	0	0	0	1	0	1	0	0	0	1	0	0	1	0	0	0
+239	4	0	0	0	1	0	0	0	0	0	1	0	0	0	1	1	0
+240	4	0	0	1	0	0	0	0	0	0	1	1	1	0	0	0	0
+241	4	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+242	4	0	0	1	0	0	0	0	0	0	1	1	1	0	0	0	0
+243	4	0	0	0	0	1	1	0	1	1	1	1	1	1	0	1	0
+244	4	0	1	0	0	0	0	0	1	1	0	0	0	1	0	0	0
+245	5	1	0	1	1	0	0	1	1	1	0	1	1	0	1	0	0
+246	5	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+247	5	0	0	0	1	0	0	1	0	0	0	0	0	0	1	0	1
+248	5	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+249	5	0	1	0	0	0	1	0	1	1	0	0	0	0	0	0	0
+250	5	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+251	5	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+252	5	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+253	5	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+254	5	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+255	5	0	0	0	0	0	0	0	1	0	0	1	1	0	1	0	0
+256	5	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+257	5	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+258	5	0	0	0	0	0	0	0	1	0	0	0	1	0	0	1	1
+259	5	1	0	0	1	0	0	0	0	0	0	0	0	1	0	0	1
+260	5	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+261	5	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+262	5	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+263	5	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+264	5	1	0	0	1	0	0	1	1	0	1	1	0	1	1	0	1
+265	5	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+266	5	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+267	5	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+268	5	0	1	0	0	0	0	0	1	1	0	0	0	1	0	0	0
+269	5	0	0	1	0	0	0	0	0	0	1	1	1	0	0	0	0
+270	5	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+271	5	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+272	5	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+273	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+274	5	0	1	1	0	0	0	1	1	1	0	1	0	1	1	0	1
+275	5	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+276	5	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+277	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+278	5	1	1	1	0	1	0	1	0	1	0	1	0	0	1	1	0
+279	5	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+280	5	1	1	1	1	0	1	1	0	0	0	1	1	0	1	0	0
+281	5	0	0	0	0	1	0	0	0	0	0	0	1	1	0	0	1
+282	5	1	1	0	1	1	0	1	0	0	1	0	1	1	0	0	1
+283	5	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+284	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+285	5	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+286	5	1	1	0	1	0	0	0	0	0	1	0	0	0	0	0	0
+287	5	0	1	0	0	0	0	0	1	1	0	0	0	1	0	0	0
+288	5	0	0	0	0	1	0	1	0	0	0	1	0	1	0	0	0
+289	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+290	5	1	0	0	1	1	0	0	0	0	1	0	0	0	0	0	0
+291	5	0	0	1	1	0	0	0	0	0	0	0	0	1	0	1	0
+292	5	0	0	0	0	0	0	1	0	1	0	1	0	0	0	1	0
+293	5	1	1	1	1	1	1	0	1	0	1	0	1	0	0	0	0
+294	5	1	0	0	1	0	1	1	1	1	1	0	1	1	0	0	0
+295	5	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+296	5	1	0	0	0	1	1	0	0	0	0	0	0	0	0	1	0
+297	5	0	1	1	0	0	0	0	1	0	0	0	1	0	0	0	0
+298	5	0	0	1	0	0	0	0	0	0	1	1	1	0	0	0	0
+299	5	1	1	1	1	1	0	1	0	1	0	0	1	0	0	0	1
+300	5	1	1	0	0	1	0	0	0	1	0	1	1	1	0	1	1
+301	5	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+302	5	1	0	0	0	1	1	0	0	0	0	0	0	0	0	1	0
+303	5	0	0	0	1	0	0	1	0	0	0	0	0	0	1	0	1
+304	5	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+305	5	0	0	0	0	0	0	0	0	0	1	1	1	0	1	0	0
+306	6	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+307	6	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+308	6	0	1	1	0	0	1	1	0	0	1	1	1	1	0	1	0
+309	6	1	0	0	0	0	0	0	0	1	0	0	1	0	0	1	0
+310	6	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+311	6	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+312	6	1	0	0	1	1	0	0	0	1	1	1	1	0	1	0	1
+313	6	1	0	0	0	1	1	0	0	0	0	0	0	0	0	1	0
+314	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+315	6	0	0	0	1	0	0	1	0	0	0	0	0	0	1	0	1
+316	6	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+317	6	0	0	1	1	0	0	0	0	0	1	0	0	0	0	0	1
+318	6	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+319	6	0	0	0	0	1	0	0	0	0	0	1	1	1	0	0	0
+320	6	1	0	1	0	0	0	1	1	1	1	0	1	1	0	0	1
+321	6	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+322	6	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+323	6	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+324	6	0	1	1	1	1	1	0	0	1	1	0	1	0	0	0	1
+325	6	0	1	1	0	0	1	0	0	0	0	0	0	0	0	1	0
+326	6	1	1	0	0	0	0	1	0	0	0	0	1	0	0	0	0
+327	6	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+328	6	0	0	0	1	0	0	0	1	0	0	1	0	1	0	0	0
+329	6	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+330	6	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+331	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+332	6	0	1	0	1	0	1	0	0	0	1	0	0	0	0	0	0
+333	6	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+334	6	0	1	0	0	1	0	0	0	1	1	0	0	0	0	0	0
+335	6	0	1	1	1	0	0	1	1	0	0	1	0	0	1	1	1
+336	6	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+337	6	0	0	1	0	1	0	0	0	0	1	0	1	0	0	0	0
+338	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+339	6	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+340	6	0	1	0	0	0	0	0	1	1	0	0	0	1	0	0	0
+341	6	0	0	1	0	0	1	1	1	0	0	1	1	1	1	1	0
+342	6	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+343	6	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+344	6	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+345	6	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+346	6	0	0	1	0	0	1	1	0	1	0	0	0	0	0	0	0
+347	6	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+348	6	0	0	0	1	0	0	1	0	0	0	0	0	0	1	0	1
+349	6	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+350	6	0	0	1	0	0	0	0	0	0	1	1	1	0	0	0	0
+351	6	1	0	0	0	1	1	0	0	0	0	0	0	0	0	1	0
+352	6	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+353	6	0	0	0	1	0	0	0	1	0	0	0	1	1	0	0	0
+354	6	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+355	6	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+356	6	0	0	0	0	0	1	1	0	1	1	0	1	1	1	1	1
+357	6	1	0	1	0	1	0	1	0	1	1	1	0	0	1	0	1
+358	6	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+359	6	0	0	1	0	0	1	1	1	0	0	0	0	0	0	0	0
+360	6	1	1	0	1	1	1	0	0	1	1	1	1	0	0	0	0
+361	6	1	1	1	0	1	0	0	1	1	0	0	0	1	1	0	1
+362	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+363	6	0	0	1	0	0	0	0	0	0	1	1	1	0	0	0	0
+364	6	0	1	0	0	0	0	0	1	1	0	0	0	1	0	0	0
+365	6	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1
+366	6	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+367	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+368	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+369	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+370	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+371	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+______________
+
+
+Burning
+
+From 2000-2012 BioCON was burned approximately every other spring. Since 2013 BioCON is burned every year in the fall. BioCON is burned using the National Fire Academy prescribed burning method. All plots in each ring are burned in a wind driven pass ignited on the upwind side of the ring. Plots with vegetation that does not burn well during the first burn are spot burned. Years burned: 2000, 2002, 2003, 2005, 2007, 2009, 2011, 2012, 2013, 2014, 2015, 2016, 2017 (last updated 2017).
+______________
+
+
+Nitrogen limits productivity response to elevated carbon dioxide
+
+This conclusion was discovered by conducting a long-term experiment (Reich et al 2006), as over the first three years of the study (1998-2000) the CO2 fertilization effect was slightly larger in ambient than enriched N treatment.  However, in every year since (2001-2007), the CO2 fertilization effect was larger in the enriched N treatment. This provides support for the hypothesis (Hungate et al Science 2003) that IPCC predictions of future atmospheric CO2 concentrations are likely overestimating the extent the rising CO2 will stimulate net primary production across the earth&rsquo;s terrestrial ecosystems (and thereby overestimating the extent that this productivity response will increase C sequestration). 
+Increased diversity effects on biomass have remained stable over the first 10 years of the experiment, despite the dominant species in mixtures shifting over time as successional patterns led to continuously differing plant community composition.  This provides strong evidence that the effects of diversity of productivity are a result of functional diversity and not dependent upon any particular species or set of species.
+
+Reich, PB, SE Hobbie, T Lee, DS Ellsworth, D Tilman, JMH Knops, S Naeem, and J Trost. 2008. Nitrogen limitation constrains sustainability of ecosystem response to CO2. Nature 440:922.
+
+Hungate, BA, JS Dukes, MR Shaw, Y Luo, and CB Field. 2003. Nitrogen and Climate Change. Science 302: 1512-1513.
+______________
+
+
+Insect and Soil Microbial Communities
+
+There are complex impacts of plant diversity, CO2 and N on plant chemistry, litter decomposition, insect and soil microbial communities and soil nitrogen cycling and leaching, and disease incidence. For example, with Poa pratensis as the food supply, grasshopper consumption and growth rates were stimulated by elevated CO2 and N when Poa was raised in monocultures but much less so when it was raised as part of diverse 16-species plots (Figure 5; Strengbom et al. 2008) This suggests that complex multi-trophic responses to global change factors that are based on responses of individual plants or species grown in unrealistic settings may provide inaccurate indications of likely changes in more realistic conditions.. Similarly, CO2, N, and species richness had complex interactions over time with respect to the losses via leaching of inorganic and organic nitrogen from the ecosystem (Figures 6 and 7; Dijkstra et al. 2007). Additionally, among other findings, we observe marked differences in soil microbial communities of 16-species mixtures under ambient and elevated CO2.
+
+Strengbom, J, PB Reich and ME Ritchie. 2008. High plant species diversity mitigates CO2- and N-induced effects on grasshopper growth. Acta Oecologia 34(2):194-201.
+
+Dijkstra, F, J West, SE Hobbie, and P Reich. 2007. Dissolved inorganic and organic N leaching from a grassland field experiment: interactive effects of plant species richness, atmospheric CO2 and N fertilization. Ecology 88:490-500.
+______________
+
+
+Water x CO2 x N
+
+Results from the first year of the rainfall manipulation x CO2 experiment showed a strong effect of both CO2 and rainfall on productivity, but no interaction. In 2007, there were significant effects on biomass of CO2, water, and N treatments, but the hypothesized interactions were not detected.  For example, rainfall removal reduced total biomass (which reflects total production) by 17% and 18% in ambient and eCO2 respectively; whereas eCO2 increased biomass by 42% and 40% in AmbH2O and LowH2O water treatments, respectively. Thus, in this first year of the experiment there was no evidence to support either the ?classical? hypothesis that the water savings effect of eCO2 leads to greater stimulation of biomass under dry conditions, or our alternative hypothesis that a major reduction in water would largely eliminate any eCO2 stimulation of biomass. This was true even though elevated CO2 did increase leaf level water use efficiency and soil water content.  Thus, results did not support the widely held hypothesis that productivity response to rising CO2 will be greater in dry than wet conditions.  In contrast, there were strong complex interactions of water x CO2 on a number of other measures. For instance, photosynthesis was stimulated more by eCO2 in the LowH2O than AmbH2O treatment when soils were dry, with the reverse true when soils were wet. The eCO2 effect on soil water content was also pronounced when soils were dry and modest when soils were wet, and the responses varied with soil depth. In general, the eCO2-induced enhancement of soil water increased with depth, whereas the effect of rainfall manipulation on soil water content was greatest at the surface. Other than at the shallowest horizon, the eCO2 effects on soil water content were surprisingly of comparable magnitude as the effect of the &asymp;40% reduction in total rainfall achieved in the lowH2O treatment. Moreover, there were significant CO2 x water interactions at the lower two depths-- the stimulation of soil water content by eCO2 was larger in the lowH2O treatment. Shifts in soil moisture such as these can both drive, or be driven by, other changes in ecosystem properties under drought stress, including species composition or changes in soil microbial or plant function that in turn can change the direction and/or magnitude of the initial changes in soil water. Some such changes may take several years to play out, hence, only relatively long-term studies (such as this) can begin to characterize the patterns and elucidate the underlying mechanisms.  Data from 2008 are not available yet.
+______________
+
+
+Woody Encroachment into Grasslands
+
+Elevated CO2 acts to facilitate tree seedling survival in grassland dominated plots.  We have observed this over long-term periods in oak (e.g., Figure 4; Davis et al. 2007) in both supplementary experiments (Davis et al. 2007) and in direct seeding in BioCON (Schnitzer et al in prep), as well as for poplar seedlings planted in BioCON plots in 2008.  Remarkably, three different Populus species planted in spring all showed three-fold greater survival in elevated than ambient CO2 conditions during the 2008 growing season.  Oaks planted in the water x CO2 experiment also showed strong CO2 effects.  Those planted in 2007 had twice as high germination establishment under elevated than ambient CO2, with this CO2 effect only very marginally stronger in the low rainfall treatment than the ambient rainfall treatment.  However, of those seedlings that established, survival to the end of the growing season was markedly influence by CO2 (three-fold greater survival) in low rainfall conditions and unaffected by CO2 under ambient rainfall.  Thus, complex interactions between water and CO2 seem to be at play depending on the stage of woody establishment.
+
+Davis, M, P Reich, J Knoll, L Dooley, M Hundtoft, and I Attleson. 2007. Elevated atmospheric CO2: a nurse plant substitute for oak seedlings in absence of trees. Global Change Biology 13:2308-2316. 
+______________
+
+
+Nitrogen Treatment and 15N
+
+N enriched plots receive nitrogen addition 3 times per growing season: mid-May, mid-June, and mid-July. We used 4 g NH4NO3/ M2/year and 0.474g 15NH415NO3 /plot/year. First, we filled a small tin full of soil (approximately 100g) and put it in a bucket. We did this 31 times for ring one. Each ring will have a varying number of tins full of soil based on the number of plots in that ring that are receiving the nitrogen application. We then added 3.28g 15NH415NO3 in the ring one bucket (each ring will have a different amount depending on the number of N addition plots in that ring).  If the ring has 30 plots to receive the application 3.17g of 15NH415NO3 were added. If the ring has 32 plots to receive the application 3.39 g of 15 NH415NO3 were added. We mixed up the contents in the bucket and then placed a tin full of soil in each 2lb paper bag labeled with the plots for ring one.  We then placed 15.69g of NH4NO3 in each paper bag and mixed the soil with the15N and the NH4NO3 as much as possible. We then repeated this with the appropriate number of tins of soil per bucket and appropriate amounts of 15N for each subsequent ring.  When applying the fertilizer, we mentally created four equal squares in the plot and tried to place equal amounts of fertilizer in each of the four squares. 
+______________
+
+
+Location and site description
+
+BioCON is located at Lat. 45N, Long. 93W. The site is on a glacial outwash sandplain and production is nitrogen limited. The experiment was set up in a secondary successional old field after the existing vegetation was cleared. BioCON consists of 371 2-meter x 2-meter plots, arranged into 6 circular areas or ?rings? (20 meter diameter), each containing 61, 62, or 63 plots. 
+______________
+
+
+FACE System Schematic
+
+
+______________
+
+
+Water Treatment
+
+Began in 2007, applied in 48 9-species plots. To implement H2O treatments we designed and built 24 portable rain-out shelters that remove almost all rainfall (approximately 95-98%) from a given plot when they are in place The rainout shelters cover entire individual plots and consist of removable shelters that fit over permanent frames situated around the outside of each plot. The shelters have a slanted roof and four individual sidewalls. There are gaps below the roof and above and below the sidewalls to allow considerable air flow. To prevent runoff into adjacent plots, intercepted rain is channeled using gutters, and moved well outside each ring.
+The protocol is to put the shelters into place immediately prior to 45% (on average) of significant rainfall events between May 10-August 15 and remove them after the completion of these events. In the case of predicted nighttime precipitation, shelters are left in place until sunrise when they are removed. Shelters are in place much less than 1% of the time (nearly always under cloudy conditions and rarely during midday) and cumulatively reduce integrated PPFD (mid-May to mid-August) by approximately 0.05% (1/2000th) pools.
+
+______________
+
+
+Warming Treatment
+
+Started spring 2012 in 48 of the 9 species plots. Belowground, distributed resistance pins heat soils down to 80cm. Aboveground, an array of infrared lamps heat plant surfaces. The 2 degrees C increase in plant and soil temperature represents the minimum warming predicted over the next century for central North America, assuming moderate to high fossil fuel emissions increases (IPCC 2007).  Plots are warmed 24 h/d for approximately 8 months per year (roughly the time of year when ambient temperatures are greater than plus/minus 3 degrees C on average). This timing closely matches eCO2 treatment timing.
+Four ceramic infrared lamps (1000 W 240V, 245 mm long by 60 mm wide) are used above each warmed plot (HTelv). Lamp wattage output is regulated continuously by a proportional integrative derivative (PID) controlled dimmer system to maintain the plus 2 degrees C treatments and feedback control.
+Soil warming is accomplished through soil vertical warming pins. Twelve 0.81 m pins are installed vertically in each HTelv plot. Soil temperature has PID feedback control on an individual plot basis based on maintaining treatment temperature differential between plot warmed treatments and nearby ambient control plots fitted with dummy soil heating pins. In-ground thermo-couples at various depths in the 0-30 cm zone in the soil horizon connect via multiplexer to a Campbell Scientific controller to regulate a PID control that turns pins up or down. Temperature is monitored in close proximity to warming pins. The system uses the soil&rsquo;s inherent thermal diffusivity and mass to maintain treatment.
+______________
+
+
+FACE Technology
+
+BioCON uses a unique Free Air CO2 Enrichment (FACE) technology to elevate the atmospheric concentration of CO2 in the experimental plots.  The FACE system used in the BioCON experiment was developed at Brookhaven National Laboratory.  It uses natural wind conditions to carry CO2 enriched air across the vegetation.  Because the plants are outside in a more natural environment, the chamber effects normally created by enclosures such as greenhouses are reduced or eliminated. 
+
+Wind direction, wind velocity, and [CO2] are measured at the center of each plot and this information is used by a computer-controlled system to adjust CO2 flow rate to maintain the target elevated [CO2] (FACE System Schematic). Only pipes on the upwind side of the plots release CO2, unless wind velocity is very low, at that time CO2 is released alternately from adjacent release points.  Fast feedback algorithms avoid large overshoots in response to fluctuations in [CO2] and provide a stable elevation of [CO2].
+______________
+
+
+Experiment Design
+
+Main Experiment
+BioCON is a split-plot arrangement of treatments in a completely randomized design. CO2 treatment is the whole-plot factor and is replicated three times among the six rings. The subplot factors of species nmber and N treatment were assigned randomly and replicated in individual plots among the six rings. For each of the four combinations of CO2 and N levels, pooled across all rings, there were 32 randomly assigned replicates for the plots plant to 1 species (2 replicates per species), 15 for those planted to 4 species, 15 for 9 species, and 12 for 16 species. This arrangement applies to the ?main? experiment which utilizes 296 plots.
+
+Sub Experiment-Functional Diversity 
+There is also a sub experiment within BioCON&rsquo;s framework in which functional group and species assignments were not completely random; functional group diversity was controlled thereby limiting the choices for species composition. The spatial distribution of plots within the rings was still randomly chosen. The 296 main experiment plots are still utilized in analyses for this part of the study; the species assignments for these plots were necessary to complete the factorial design for functional vs. species diversity analyses. In total there are 371 plots in the BioCON experiment: 296 plots in the main randomly assigned experiment, 63 additional plots for controlling functional group diversity, and 12 bare ground plots, void of any plant species.
+
+Water Experiment: Implemented in 2007
+Water treatments were added to 48 of the BioCON 9-species plots. Half of these receive natural rain fall while the other half experience rain removal via portable rain shelters. The goal of this sub-experiment is to examine how inputs of water, CO2 and N interact to influence soil water availability, soil-plant interactions that influence available N, interactions with the belowground community of decomposers and mutualists, and thus net primary production (NPP) and plant and soil C pools.
+
+Warming Experiment: Implemented spring 2012 
+Uses 48 of the BioCON 9-species plots. These plots now contain 6-7 species on average. Although the major focus of this project is on Warming treatment plots, understanding of the main, interactive and indirect effects of each of the global change factors (diversity, CO2, N, temperature, rainfall) in BioCON will be gleaned from observations of responses of microbes, plants or other organisms in the other 330 plots in BioCON, each with some subset of the treatments in the full factorial experiment that is the core of this project.
+The warming treatment is applied pairing below and aboveground heating to elevate ecosystem temperature.  The treatments continuously elevate growing season plant and soil temperatures by approximately 2 degrees C. 
+
+
+
+______________
+
+
+Weeding
+
+Species composition is controlled by hand weeding 2-4 times per growing season.  Species distribution cards are used to identify a list of target species for each plot; all non-target species are removed.   Weeding tools are used if needed to try and remove roots of each non-target plant without damaging other plants surrounding it.  If soil is disturbed during the process of extracting plants, it&rsquo;s smoothed out afterwards.  Portable elevated weeding benches that span the plot are used to prevent stepping or kneeling in the plots during weeding. 
+______________
+
+
+Initial Seeding and Biodiversity Treatment
+
+Plots were planted in 1997. Each plot was planted with 12g/m2 of seed, split equally among the planted species. In 1997 the plots were watered regularly to ensure germination and establishment. The plots were not watered after 1997. The 16 species in the experiment were chosen from the following criteria: A species had to (1) be native or naturalized to the area; (2) have a proven track record of establishment in previous experiments at Cedar Creek; (3) belong to 1 of 4 functional groups: leguminous forbs, non-leguminous forbs; C3 grasses, and C4 grasses. 
+
+Species	Functional Group
+Achillea millefolium	non-leguminous forb
+Agropyron repens	C-3 grass
+Amorpha canescens	leguminous forb
+Andropogon gerardi	C-4 grass
+Anemone cylindrica	non-leguminous forb
+Asclepias tuberosa	non-leguminous forb
+Bouteloua gracilis	C-4 grass
+Bromus inermis	C-3 grass
+Koeleria cristata	C-3 grass
+Lespedeza capitata	leguminous forb
+Lupinus perennis	leguminous forb
+Petalostemum villosum	leguminous forb
+Poa pratensis	C-3 grass
+Schizachyrium scoparium	C-4 grass
+Solidago rigida	non-leguminous forb
+Sorghastrum nutans	C-4 grass
+______________
+
+
+Carbon Dioxide Treatment
+
+Elevated CO2 treatment rings 1, 3 and 5 receive air with a target CO2 concentration set at 550 ppm in 1997, gradually rising to 565 ppm in 2013 to address rising carbon dioxide concentrations in the atmosphere. The ambient CO2 treatment rings 2, 4 and 6 are ?fumigated&rsquo; with ambient air with no experimental CO2 addition in order to protect against erroneous results caused by the FACE equipment (see FACE technology). Elevated CO2 treatments are applied seven days per week, during daylight hours, for the full growing season (roughly May 1 to October 15).
+______________
+
+
