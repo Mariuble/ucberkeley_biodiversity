@@ -1,543 +1,1 @@
-Year	Experiment	Plant ID	Maternal plot	Maternal CO2	Maternal N	Offspring ring	Offspring CO2	Seed mass	Emergence date	10 July leaf #	10 July leaflet length	August leaf #	August leaflet length	root length (cm)	aboveground biomass (g)2006	E141	4048				3	elevated		13	1	17	1	532006	E141	5212	30	elevated	elevated	5	elevated	0.0257	13	4	24	4	26	15	0.272006	E141	5104	33	elevated	ambient	5	elevated	0.0259	16	4	19	6	26	14.5	0.142006	E141	4323	13	elevated	elevated	3	elevated	0.0278	19	4	23	7	302006	E141	5616	13	elevated	elevated	6	ambient	0.0278	19	3	23	6	25	11.5	0.242006	E141	5808	13	elevated	elevated	6	ambient	0.026	19	3	15	4	27	11.5	0.192006	E141	3406	23	elevated	ambient	1	elevated	0.0276	13	4	18	4	22	14	0.212006	E141	3467	23	elevated	ambient	1	elevated	0.0261	16	3	17	4	22	2.5	0.142006	E141	3902	23	elevated	ambient	2	ambient	0.0258	23	3	20	4	20	14	0.172006	E141	4055	23	elevated	ambient	3	elevated	0.0244	13			5	24	14.5	0.22006	E141	4195	23	elevated	ambient	3	elevated	0.0257	132006	E141	4272	23	elevated	ambient	3	elevated	0.023	13	4	12	6	23	12	0.272006	E141	4438	23	elevated	ambient	3	elevated	0.0285	13	4	18	5	24	13.5	0.192006	E141	4535	23	elevated	ambient	4	ambient	0.0232	16	3	15	3	19	14.5	0.062006	E141	4713	23	elevated	ambient	4	ambient	0.0246	13	3	16	4	21	15	0.182006	E141	4746	23	elevated	ambient	4	ambient	0.0264	16	3	15	4	20	14	0.142006	E141	5010	23	elevated	ambient	5	elevated	0.0303	13	3	19	4	25	14	0.342006	E141	5254	23	elevated	ambient	5	elevated	0.0297	19	3	19	5	22	15.5	0.232006	E141	5735	23	elevated	ambient	6	ambient	0.0245	23	3	19	3	24	12	0.172006	E141	3712	33	elevated	ambient	2	ambient	0.0303	11.5	3	24	5	28	13.5	0.242006	E141	3950	33	elevated	ambient	2	ambient	0.0287	10	5	17	6	26	13	0.192006	E141	4868	33	elevated	ambient	4	ambient	0.0259	19	2	15	3	21	14	0.182006	E141	5631	33	elevated	ambient	6	ambient	0.0278	16	3	13	4	23	16	0.112006	E141	5707	33	elevated	ambient	6	ambient	0.0315	13	5	21	6	24	13.5	0.222006	E141	5868	33	elevated	ambient	6	ambient	0.0285	16	3	19	4	24	16	0.272006	E141	3102	43	elevated	elevated	1	elevated	0.0214	16	3	15	4	28	14.5	0.22006	E141	3673	43	elevated	elevated	2	ambient	0.0255	10	3	21	4	242006	E141	3752	43	elevated	elevated	2	ambient	0.024	16	4	24	7	24	13.5	0.222006	E141	4052	43	elevated	elevated	3	elevated	0.0225	162006	E141	3097	45	elevated	ambient	1	elevated	0.0287	10	3	212006	E141	3109	45	elevated	ambient	1	elevated	0.0219	23	3	15	4	28	14	0.252006	E141	3230	45	elevated	ambient	1	elevated	0.025	23	2	8	3	23	15	0.192006	E141	3240	45	elevated	ambient	1	elevated	0.0257	23	2	5	3	30	16.5	0.162006	E141	3768	45	elevated	ambient	2	ambient	0.0237	13	4	20	5	25	12.5	0.252006	E141	4131	45	elevated	ambient	3	elevated	0.025	13	4	23	6	24	15	0.412006	E141	4605	45	elevated	ambient	4	ambient	0.0293	19	3	19	4	27	13	0.212006	E141	5067	45	elevated	ambient	5	elevated	0.0315	10	5	24 (closed)			14.5	0.192006	E141	5828	45	elevated	ambient	6	ambient	0.0292	16	5	19	7	21	14	0.262006	E141	3115	51	elevated	ambient	1	elevated	0.0291	23	3	23	4	28	15.5	0.162006	E141	3390	51	elevated	ambient	1	elevated	0.0284	13	3	19	4	25	15	0.192006	E141	3878	51	elevated	ambient	2	ambient	0.0292	13	3	18	5	23	15.5	0.22006	E141	4649	51	elevated	ambient	4	ambient	0.0318	13	3	19			12	0.22006	E141	4751	51	elevated	ambient	4	ambient	0.0275	16	3	16	4	25	13	0.192006	E141	5700	51	elevated	ambient	6	ambient	0.0306	13	2	20	4	22	14.5	0.212006	E141	5740	51	elevated	ambient	6	ambient	0.0307	13	3	23	6	24	12	0.22006	E141	3157	52	elevated	elevated	1	elevated	0.0275	13					15.52006	E141	4650	52	elevated	elevated	4	ambient	0.0157	16	3	21	4	24	16	0.162006	E141	4845	52	elevated	elevated	4	ambient	0.0276	13	3	20	4	20	13.5	0.142006	E141	5173	52	elevated	elevated	5	elevated	0.0239	10	4	232006	E141	5400	52	elevated	elevated	5	elevated	0.0289	19	2	21	5	24	16	0.212006	E141	5536	52	elevated	elevated	6	ambient	0.0268	16	3	20	4	19	9	0.22006	E141	5734	52	elevated	elevated	6	ambient	0.0247	23	3	15	3	21	11.5	0.152006	E141	4175	64	ambient	elevated	3	elevated	0.0295	26	2	13	5	29	10	0.232006	E141	4347	64	ambient	elevated	3	elevated	0.0252	13	4	15	5	29	14	0.182006	E141	4683	64	ambient	elevated	4	ambient	0.0266	262006	E141	4826	64	ambient	elevated	4	ambient	0.0335	10	7	15	7	19	10	0.232006	E141	5674	64	ambient	elevated	6	ambient	0.0268	16	3	shrivelled2006	E141	5803	64	ambient	elevated	6	ambient	0.0294	10	4	19	6	24	15	0.342006	E141	3129	67	ambient	ambient	1	elevated	0.0272	10	5	23	6	27	15	0.372006	E141	3130	67	ambient	ambient	1	elevated	0.0234	10	4	20	6	30	15.5	0.42006	E141	3174	67	ambient	ambient	1	elevated	0.0239	13	3	21	5	28	14	0.432006	E141	4023	67	ambient	ambient	3	elevated	0.0243	13	3	22	5	25	13.5	0.282006	E141	4104	67	ambient	ambient	3	elevated	0.0278	13	4	23	5	29	13	0.332006	E141	4130	67	ambient	ambient	3	elevated	0.0288	16	4	21	7	29	13	0.32006	E141	4249	67	ambient	ambient	3	elevated	0.0255	16	2	13	4	22	14	0.172006	E141	5147	67	ambient	ambient	5	elevated	0.0253	10	4	20	5	28	16	0.352006	E141	5667	67	ambient	ambient	6	ambient	0.0257	19	3	15	5	20	16.5	0.122006	E141	3545	69	ambient	ambient	2	ambient	0.0244	13	3	28	4	25	14	0.212006	E141	3832	69	ambient	ambient	2	ambient	0.0225	262006	E141	4068	69	ambient	ambient	3	elevated	0.0258	13	3	22	4	252006	E141	4460	69	ambient	ambient	4	ambient	0.0252	10	3	23	6	21	12	0.182006	E141	4766	69	ambient	ambient	4	ambient	0.0228	16	3	19	5	23	14.5	0.182006	E141	4797	69	ambient	ambient	4	ambient	0.0251	19	3	19	5	25	15.5	0.222006	E141	4834	69	ambient	ambient	4	ambient	0.0245	16	4	23	6	25	13.5	0.192006	E141	5044	69	ambient	ambient	5	elevated	0.0243	23	3	18	4	26	13.5	0.312006	E141	5349	69	ambient	ambient	5	elevated	0.0253	16	4	21	6	28	15	0.32006	E141	3418	104	ambient	ambient	1	elevated	0.0245		3	9	4	26	16	0.222006	E141	3981	104	ambient	ambient	3	elevated	0.0225	13	3	23	4	29	9	0.282006	E141	4089	104	ambient	ambient	3	elevated	0.0248	13	3	21	5	30	9.5	0.292006	E141	4587	104	ambient	ambient	4	ambient	0.0185	13	3	19	4	24	14.5	0.182006	E141	3029	107	ambient	ambient	1	elevated	0.021	23	3	20	5	27	14.5	0.152006	E141	3255	107	ambient	ambient	1	elevated	0.0227	16	4	22	6	29	13	0.422006	E141	3667	107	ambient	ambient	2	ambient	0.0204	19	3	15 (herbvy)	4	28	14	0.132006	E141	5191	107	ambient	ambient	5	elevated	0.0203	10	3	26	5	32	17	0.332006	E141	5688	107	ambient	ambient	6	ambient	0.0245	16	3	14	3	23	12.5	0.132006	E141	3045	108	ambient	elevated	1	elevated	0.0224	23	4	22	6	32	12.5	0.332006	E141	3068	108	ambient	elevated	1	elevated	0.0204	10	4	30	4	32	17	0.362006	E141	4588	108	ambient	elevated	4	ambient	0.0197	16	3	11	6	20	16	0.192006	E141	4714	108	ambient	elevated	4	ambient	0.0231	19	3	16	6	25	14	0.192006	E141	3349	110	ambient	elevated	1	elevated	0.0317	16	3	22	4	27	14	0.42006	E141	4492	110	ambient	elevated	4	ambient	0.0312	16	3	21	4	29	12.5	0.212006	E141	5851	110	ambient	elevated	6	ambient	0.0346	10	4	25	5	28	16	0.232006	E141	3942	118	ambient	elevated	2	ambient	0.0274	162006	E141	4744	118	ambient	elevated	4	ambient	0.0297	132006	E141	3542	130	elevated	elevated	2	ambient	0.0228	13	3	20	4	24	14.5	0.142006	E141	3897	130	elevated	elevated	2	ambient	0.024	13	4	23	5	25	14.5	0.332006	E141	4404	130	elevated	elevated	3	elevated	0.021	19	3	21	6	30	13.5	0.322006	E141	4455	130	elevated	elevated	4	ambient	0.0219	13	3	20	5	24	13.5	0.172006	E141	4536	130	elevated	elevated	4	ambient	0.0228	16	4	13	5	23	14.5	0.192006	E141	4709	130	elevated	elevated	4	ambient	0.0224	13	3	20	5	27	15	0.192006	E141	5227	130	elevated	elevated	5	elevated	0.0204	10	3	26	5	34	8.5	0.412006	E141	5436	130	elevated	elevated	6	ambient	0.0218	13	5	18			16	0.232006	E141	5718	130	elevated	elevated	6	ambient	0.0237	10	3	22	4	25	14	0.182006	E141	5751	130	elevated	elevated	6	ambient	0.0225	16	3	15	3	25	15	0.182006	E141	5829	130	elevated	elevated	6	ambient	0.0199	13	3	22	5	262006	E141	3234	147	elevated	ambient	1	elevated	0.0217	10	2	20	4	25	16	0.312006	E141	3374	147	elevated	ambient	1	elevated	0.0231	16	3	20	5	30	14	0.342006	E141	3381	147	elevated	ambient	1	elevated	0.0206	10	4	21	7	26	16	0.362006	E141	3762	147	elevated	ambient	2	ambient	0.025	10	5	23	6	22	14	0.282006	E141	4236	147	elevated	ambient	3	elevated	0.0218	10	3	20	6	22	15	0.342006	E141	4441	147	elevated	ambient	4	ambient	0.0205	13	3	19	3	20	14.5	0.162006	E141	4777	147	elevated	ambient	4	ambient	0.0232	16	3	20	4	25	15.5	0.252006	E141	4981	147	elevated	ambient	5	elevated	0.0224	13	3	shriveled			15	0.172006	E141	5531	147	elevated	ambient	6	ambient	0.0192	10	3	20	4	28	14.5	0.142006	E141	5590	147	elevated	ambient	6	ambient	0.0249	16	6	21	6	25	15.5	0.292006	E141	3223	151	elevated	elevated	1	elevated	0.0285	23	2	13 (herbvy)	5	26	16.5	0.22006	E141	3248	151	elevated	elevated	1	elevated	0.0308	13	4	20	5	28	16	0.322006	E141	3361	151	elevated	elevated	1	elevated	0.0312	16	5	30	5	36	15	0.382006	E141	4311	151	elevated	elevated	3	elevated	0.0281	16	5	24	8	34	14	0.372006	E141	5597	151	elevated	elevated	6	ambient	0.032	13	3	24	4	25	10	0.272006	E141	5617	151	elevated	elevated	6	ambient	0.0294	13	5	27	7	25	14	0.242006	E141	3069	163	elevated	ambient	1	elevated	0.0272	16	4	16	5	31	15.5	0.22006	E141	3494	163	elevated	ambient	2	ambient	0.0292	13	4	24	5	24	16	0.22006	E141	4067	163	elevated	ambient	3	elevated	0.0242	13	4	20	6	25	16	0.22006	E141	5314	163	elevated	ambient	5	elevated	0.0254	10	4	24	5	30	14.5	0.272006	E141	5452	163	elevated	ambient	6	ambient	0.0275	19	3	14	5	20	15	0.182006	E141	5514	163	elevated	ambient	6	ambient	0.0319	10	5	222006	E141	5671	163	elevated	ambient	6	ambient	0.0272	16	4	16	7	22	16	0.132006	E141	5760	163	elevated	ambient	6	ambient	0.0251	10	4	24	5	25	14	0.322006	E141	3632	173	elevated	ambient	2	ambient	0.0237	13	3	25	5	30	13	0.232006	E141	3841	173	elevated	ambient	2	ambient	0.0267	262006	E141	4444	173	elevated	ambient	4	ambient	0.0252	13	3	12	4	21	13.5	0.142006	E141	4477	173	elevated	ambient	4	ambient	0.0255	10	4	22	4	232006	E141	5033	173	elevated	ambient	5	elevated	0.0268		1	122006	E141	3903	175	elevated	elevated	2	ambient	0.0292	132006	E141	4373	175	elevated	elevated	3	elevated	0.0267	13	3	25	6	28	13	0.312006	E141	4738	175	elevated	elevated	4	ambient	0.0242	19	2	10	3	21	6	0.132006	E141	5359	175	elevated	elevated	5	elevated	0.0282	10	3	20	4	26	14	0.192006	E141	5535	175	elevated	elevated	6	ambient	0.0262	13	3	19	4	20	14	0.252006	E141	5758	175	elevated	elevated	6	ambient	0.0232	16	3	16	4	19	14.5	0.142006	E141	3107	179	elevated	ambient	1	elevated	0.0247	23	2	immature2006	E141	4538	179	elevated	ambient	4	ambient	0.0239	13	3	19	4	24	15	0.22006	E141	4667	179	elevated	ambient	4	ambient	0.0253	192006	E141	5394	180	elevated	elevated	5	elevated	0.0282	16	5	21	6	26	14.5	0.32006	E141	4577	184	ambient	ambient	4	ambient	0.0276	232006	E141	4866	184	ambient	ambient	4	ambient	0.0269	19	3	12	6	21	15.5	0.22006	E141	5076	184	ambient	ambient	5	elevated	0.0254	23	4	24	5	18	16	0.322006	E141	4002	188	ambient	ambient	3	elevated	0.0218	13	3	19	6	37	10.5	0.32006	E141	4293	188	ambient	ambient	3	elevated	0.0194	16	3	18	4	28	17	0.322006	E141	4370	188	ambient	ambient	3	elevated	0.0194	16	3	19	4	24	9.5	0.222006	E141	4702	188	ambient	ambient	4	ambient	0.0242	19	3	16	4	23	13.5	0.212006	E141	4801	188	ambient	ambient	4	ambient	0.0214	16	3	19	4	30	12	0.212006	E141	5112	188	ambient	ambient	5	elevated	0.0219	19	3	18	4	25	10	0.332006	E141	5175	188	ambient	ambient	5	elevated	0.021	19	3	21	4	312006	E141	3099	201	ambient	ambient	1	elevated	0.0229	23	4	22	4	25	17	0.162006	E141	3159	201	ambient	ambient	1	elevated	0.0194	16	3	29	4	24	13.5	0.172006	E141	3520	201	ambient	ambient	2	ambient	0.0229	10	4	23	5	25	16	0.212006	E141	3653	201	ambient	ambient	2	ambient	0.0236	10	5	24	7	25	13.5	0.292006	E141	3909	201	ambient	ambient	2	ambient	0.0256	13	4	23	5	23	15	0.242006	E141	4637	201	ambient	ambient	4	ambient	0.0199	16	2	19	3	20	15.5	0.12006	E141	4954	201	ambient	ambient	5	elevated	0.0238	10	5	27	7	31	13.5	0.442006	E141	5278	201	ambient	ambient	5	elevated	0.0212	13	4	23	6	28	14	0.282006	E141	5457	201	ambient	ambient	6	ambient	0.0237	10	3	19	4	27	16	0.22006	E141	5699	201	ambient	ambient	6	ambient	0.0226	16	2	15	3	20	15.5	0.112006	E141	4003	205	ambient	elevated	3	elevated	0.0268	13	3	22	5	28	13	0.232006	E141	4458	205	ambient	elevated	4	ambient	0.0248	10	3	20	6	20	15	0.22006	E141	5141	205	ambient	elevated	5	elevated	0.0252	13	3	242006	E141	5198	205	ambient	elevated	5	elevated	0.0239	10	3	25	4	28	15	0.292006	E141	5379	205	ambient	elevated	5	elevated	0.0244	19	3	20 (shrivelled)2006	E141	5510	205	ambient	elevated	6	ambient	0.0251	26	2	12	5	18	15	0.152006	E141	5843	205	ambient	elevated	6	ambient	0.0226	19	3	19	5	21	14.5	0.12006	E141	5148	213	ambient	elevated	5	elevated	0.0333	13	4	22	4	24	16.5	0.322006	E141	5418	213	ambient	elevated	6	ambient	0.0336	16	4	22	4	26	15	0.252006	E141	3025	222	ambient	ambient	1	elevated	0.0254	232006	E141	3116	222	ambient	ambient	1	elevated	0.025	23	3	20	4	30	13.5	0.382006	E141	3920	222	ambient	ambient	2	ambient	0.022	16	3	20			14	0.162006	E141	5741	222	ambient	ambient	6	ambient	0.0257	19	3	13	4	24	12	0.182006	E141	5743	222	ambient	ambient	6	ambient	0.0229	13	3	24	4	26	14	0.182006	E141	3694	234	ambient	elevated	2	ambient	0.0234	19	4	25	4	22	12.5	0.172006	E141	5049	234	ambient	elevated	5	elevated	0.0253	16	6	26	9	27	16	0.372006	E141	5385	234	ambient	elevated	5	elevated	0.0237	10	5	24	6	27	16	0.362006	E141	5417	234	ambient	elevated	6	ambient	0.0181	16	3	19	4	232006	E141	5523	234	ambient	elevated	6	ambient	0.0221	23	3	13	4	23	14.5	0.12006	E141	3440	236	ambient	elevated	1	elevated	0.0187	10	4	19	7	24	16	0.282006	E141	4712	236	ambient	elevated	4	ambient	0.0211	13	3	15	5	21	15.5	0.162006	E141	4759	250	elevated	ambient	4	ambient	0.0302	16	3	18	4	26	16	0.222006	E141	4968	250	elevated	ambient	5	elevated	0.0345	10	4	22	7	28	16.5	0.342006	E141	5117	250	elevated	ambient	5	elevated	0.0307	13	4	21	5	26	15.5	0.382006	E141	5328	250	elevated	ambient	5	elevated	0.0295	16	3	20	5	32	14.5	0.312006	E141	5694	250	elevated	ambient	6	ambient	0.0294	19	2	14	6	22	13.5	0.192006	E141	4203	253	elevated	elevated	3	elevated	0.0264	10	6	23 (herbvy)	8	28	14	0.222006	E141	5728	253	elevated	elevated	6	ambient	0.0258	10	4	22	5	24	14	0.242006	E141	3163	267	elevated	elevated	1	elevated	0.0294	13	4	24	6	22	15.5	0.242006	E141	4657	267	elevated	elevated	4	ambient	0.0262	13	4	22	4	25	15	0.262006	E141	4699	267	elevated	elevated	4	ambient	0.0291	13	4	19	5	24	14.5	0.152006	E141	3400	272	elevated	ambient	1	elevated	0.022	23	3	8	4	21	13	0.172006	E141	4047	272	elevated	ambient	3	elevated	0.0257	10	4	25	5	30	14.5	0.422006	E141	4193	272	elevated	ambient	3	elevated	0.0286	16	4	20	7	22	14	0.312006	E141	3431	275	elevated	elevated	1	elevated	0.0236	13	3	12	6	20	13	0.212006	E141	3326	283	elevated	ambient	1	elevated	0.022	10	5	29	7	34	14	0.392006	E141	3569	283	elevated	ambient	2	ambient	0.0212	10	5	25	8	25	15	0.292006	E141	3923	283	elevated	ambient	2	ambient	0.0209	10	3	25	5	26	15	0.242006	E141	3928	283	elevated	ambient	2	ambient	0.0244	10	6	13	9	24	15.5	0.32006	E141	5115	283	elevated	ambient	5	elevated	0.0196	16	3	25	7	28	12.5	0.32006	E141	5338	283	elevated	ambient	5	elevated	0.0201	23	2	10	4	25	13	0.122006	E141	5540	283	elevated	ambient	6	ambient	0.021	13	4	19	6	242006	E141	3294	301	elevated	elevated	1	elevated	0.0235	13	6	20	11	37	15.5	0.282006	E141	3556	301	elevated	elevated	2	ambient	0.0235	13	4	11	7	22	13	0.152006	E141	3763	301	elevated	elevated	2	ambient	0.0251	10	4	26	5	26	6.5	0.22006	E141	4013	301	elevated	elevated	3	elevated	0.0223	10	4	22	9	29	13.5	0.322006	E141	4248	301	elevated	elevated	3	elevated	0.0188	16	3	18	5	24	14	0.082006	E141	4924	301	elevated	elevated	5	elevated	0.0235	16	6	18	8	222006	E141	5302	301	elevated	elevated	5	elevated	0.0186	16	3	21	5	31	14.5	0.172006	E141	5511	301	elevated	elevated	6	ambient	0.0248	13	4	21	5	22	12.5	0.192006	E141	5600	301	elevated	elevated	6	ambient	0.0234	13	3	18	7	25	16	0.252006	E141	3215	307	ambient	elevated	1	elevated	0.0271	16	3	20			16.5	0.052006	E141	4229	307	ambient	elevated	3	elevated	0.0271	13	4	24	5	25	14.5	0.322006	E141	4326	307	ambient	elevated	3	elevated	0.0258	16	3	19	4	24	16	0.232006	E141	4481	307	ambient	elevated	4	ambient	0.0263	13	3	16	4	222006	E141	5070	311	ambient	elevated	5	elevated	0.0192	10	4	22	7	27	16	0.422006	E141	5341	311	ambient	elevated	5	elevated	0.0222	26			eaten2006	E141	3925	321	ambient	elevated	2	ambient	0.0217	23	3	12	4	24	16	0.142006	E141	3971	321	ambient	elevated	3	elevated	0.0237	13	3	21	5	25	14	0.262006	E141	4673	321	ambient	elevated	4	ambient	0.0206	16	3	22	4	22	14	0.152006	E141	5032	321	ambient	elevated	5	elevated	0.0244	16	3	21	5	30	15	0.282006	E141	5525	321	ambient	elevated	6	ambient	0.0246	16	3	172006	E141	5854	321	ambient	elevated	6	ambient	0.0234	16	3	21	3	182006	E141	3671	344	ambient	ambient	2	ambient	0.029	16	4	24	5	28	14.5	0.272006	E141	4233	344	ambient	ambient	3	elevated	0.0236	19	2	21	4	32	15.5	0.22006	E141	3482	354	ambient	elevated	2	ambient	0.0252	16	2	10	5	20	3	0.082006	E141	3702	355	ambient	ambient	2	ambient	0.022	16	4	23	6	25	14	0.212006	E141	3907	355	ambient	ambient	2	ambient	0.0255	19	3	20	4	22	15	0.162006	E141	4137	355	ambient	ambient	3	elevated	0.0277	13	5	24	7	30	10	0.382006	E141	4446	355	ambient	ambient	4	ambient	0.027	13	3	22	4	21	14	0.222006	E141	4883	355	ambient	ambient	4	ambient	0.024	13	3	20	6	24	12.5	0.242006	E141	5486	355	ambient	ambient	6	ambient	0.0283	13	4	21	6	26	14	0.34
-
-_________________________________________________________________________
-
-
-Methods and Protocols:
-
-
-Dataset Methods:
-
-
-Growth measures Transgenerational Effects Lupinus perennis
-
-We measured plant height, leaf number and length of longest leaflet  monthly throughout the growing season.  After approximately 3 months of growth, all plants were harvested and aboveground biomass was weighed after drying for 2 days at 60C.  Length of the longest Lupinus root was measured.
-
-______________
-
-Sampling Method Transgenerational Effects 
-
-In Fall 2002, seeds were collected from a single maternal plant of each species in each of the 16 species plots in the BioCON experiment.  In Spring 2006, these seeds were then planted into pots and placed into the BioCON experiment under ambient or elevated CO2 conditions.  One Lupinus seed was planted into each plot.  Four Poa and Schizachyrium seeds were planted into each plot; therefore, the Poa and Schizachyrium data are mean values of the 1-4 individuals per pot (depending on how many germinated).
-
-______________
-
-Experiment Methods:
-
-Initial species planted into plots
-
-1 indicates species was planted in 1997, 0 indicates not planted
-
-Plot	Ring	Achillea millefolium	Agropyron repens	Amorpha canescens	Andropogon gerardi	Anemone cylindrica	Asclepias tuberosa	Bouteloua gracilis	Bromus inermis	Koeleria cristata	Lespedeza capitata	Lupinus perennis	Petalostemum villosum	Poa pratensis	Schizachyrium scoparium 	Solidago rigida	Sorghastrum nutans
-1	1	1	0	0	0	0	1	0	0	1	0	0	0	1	0	0	0
-2	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
-3	1	0	0	1	0	0	0	0	0	0	1	1	1	0	0	0	0
-4	1	0	0	0	0	1	1	0	0	0	0	0	1	0	0	0	1
-5	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-6	1	0	0	0	1	0	0	1	0	0	0	0	0	0	1	0	1
-7	1	0	1	1	0	1	1	1	0	0	0	1	1	0	0	1	1
-8	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
-9	1	0	1	0	0	0	0	0	1	1	0	0	0	1	0	0	0
-10	1	1	0	0	0	1	0	0	0	1	0	0	0	0	0	0	1
-11	1	1	0	0	0	0	0	1	1	1	1	1	0	0	1	1	1
-12	1	1	0	0	1	0	1	1	1	0	1	0	1	0	1	0	1
-13	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-14	1	0	0	0	0	1	0	0	0	0	0	0	1	1	1	0	0
-15	1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	1	1
-16	1	1	1	0	0	1	1	0	0	0	1	0	1	0	1	1	1
-17	1	0	1	1	1	1	1	0	0	1	1	0	1	0	0	1	0
-18	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
-19	1	0	0	0	0	0	0	0	1	0	1	0	0	0	1	0	1
-20	1	1	0	0	0	1	1	0	0	0	0	0	0	0	0	1	0
-21	1	0	1	1	1	0	1	0	1	0	0	0	1	1	1	0	1
-22	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
-23	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-24	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-25	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-26	1	1	1	1	0	0	0	1	0	1	0	1	0	1	1	0	1
-27	1	1	0	0	0	1	1	0	0	0	0	0	0	0	0	1	0
-28	1	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	1
-29	1	0	0	1	0	1	1	0	0	0	0	1	0	0	0	0	0
-30	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-31	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-32	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
-33	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-34	1	1	1	1	1	1	0	1	1	0	1	1	0	0	0	0	0
-35	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
-36	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-37	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
-38	1	0	0	0	1	0	0	0	0	0	0	1	1	0	0	0	1
-39	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
-40	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
-41	1	0	1	0	0	0	0	0	1	1	0	0	0	1	0	0	0
-42	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
-43	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-44	1	0	0	0	0	0	0	0	0	0	0	1	1	0	0	1	1
-45	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-46	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
-47	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
-48	1	1	1	1	0	0	1	0	1	0	1	1	0	1	1	0	0
-49	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-50	1	0	0	0	1	1	1	1	0	1	0	1	0	1	1	1	0
-51	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-52	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-53	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
-54	1	0	0	0	1	0	0	1	0	0	0	0	0	0	1	0	1
-55	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
-56	1	0	0	1	0	0	0	0	0	0	1	1	1	0	0	0	0
-57	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
-58	1	0	1	0	0	0	0	0	0	0	0	1	0	1	0	1	0
-59	1	0	0	0	0	0	0	1	1	0	0	0	1	0	0	1	0
-60	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
-61	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-62	2	0	0	1	0	0	0	0	0	1	0	0	0	0	1	1	0
-63	2	0	0	0	0	0	0	1	0	0	0	0	0	1	0	1	1
-64	2	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-65	2	1	1	1	0	0	0	1	0	1	0	1	0	0	1	1	1
-66	2	0	0	0	0	1	1	1	1	1	1	1	0	0	1	0	1
-67	2	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-68	2	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
-69	2	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-70	2	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
-71	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
-72	2	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
-73	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-74	2	0	0	1	0	0	0	0	0	0	1	1	1	0	0	0	0
-75	2	0	0	1	0	1	0	0	0	0	0	1	0	0	1	0	0
-76	2	0	0	0	1	0	0	1	0	0	0	0	0	0	1	0	1
-77	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
-78	2	1	0	0	0	1	0	0	0	0	0	1	0	0	0	1	0
-79	2	0	1	0	0	0	1	0	1	0	0	0	1	0	0	0	0
-80	2	0	1	0	0	0	0	0	1	1	0	0	0	1	0	0	0
-81	2	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
-82	2	0	0	0	0	0	1	0	0	1	0	0	0	1	0	0	1
-83	2	1	1	1	0	1	1	0	0	1	0	1	1	0	1	0	0
-84	2	0	0	1	1	0	1	1	0	0	1	1	1	1	1	0	0
-85	2	0	0	1	0	0	0	1	0	0	1	0	0	0	0	0	1
-86	2	1	0	0	0	0	1	1	0	0	0	0	1	0	0	0	0
-87	2	0	1	1	1	1	0	0	0	0	1	1	1	1	1	0	0
-88	2	0	0	1	0	1	0	0	1	0	0	0	0	0	1	0	0
-89	2	1	0	0	0	1	1	0	0	0	0	0	0	0	0	1	0
-90	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
-91	2	1	0	1	1	0	0	0	0	0	0	1	0	0	0	0	0
-92	2	1	0	1	1	1	1	0	1	0	0	0	1	0	0	1	1
-93	2	0	0	1	0	0	0	0	0	0	1	1	1	0	0	0	0
-94	2	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-95	2	1	0	0	0	1	1	0	0	0	0	0	0	0	0	1	0
-96	2	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
-97	2	1	1	1	0	0	1	0	1	1	1	0	1	0	0	0	1
-98	2	0	1	0	0	0	0	0	1	1	0	0	0	1	0	0	0
-99	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
-100	2	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
-101	2	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
-102	2	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
-103	2	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
-104	2	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-105	2	0	0	0	1	0	0	1	0	0	0	0	0	0	1	0	1
-106	2	0	1	0	1	0	1	1	0	1	0	1	0	1	1	0	1
-107	2	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-108	2	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-109	2	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
-110	2	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-111	2	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-112	2	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-113	2	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
-114	2	0	0	0	0	0	1	0	1	0	1	0	0	0	0	1	0
-115	2	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
-116	2	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
-117	2	1	1	0	1	1	0	1	1	0	0	0	0	1	0	1	1
-118	2	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-119	2	0	1	0	1	0	0	0	1	1	1	0	1	0	1	1	1
-120	2	1	1	0	0	0	0	0	0	1	0	0	1	0	0	0	0
-121	2	0	1	0	1	0	0	0	0	1	0	0	0	0	1	0	0
-122	2	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
-123	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
-124	3	0	0	0	1	0	0	1	0	0	0	0	0	0	1	0	1
-125	3	0	0	0	0	0	1	0	0	0	1	0	1	0	0	1	0
-126	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
-127	3	0	1	0	0	0	0	0	1	1	1	0	0	0	0	0	0
-128	3	0	0	1	1	1	1	0	1	1	1	0	0	0	1	1	0
-129	3	0	1	0	0	1	0	0	0	0	0	0	0	1	1	0	0
-130	3	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-131	3	1	0	1	0	0	0	0	1	1	1	1	1	0	1	0	1
-132	3	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
-133	3	1	0	0	0	0	0	1	1	1	0	0	1	1	1	1	1
-134	3	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
-135	3	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
-136	3	1	0	0	0	1	1	0	0	0	0	0	0	0	0	1	0
-137	3	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
-138	3	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
-139	3	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
-140	3	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
-141	3	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
-142	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
-143	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
-144	3	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-145	3	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-146	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
-147	3	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-148	3	0	0	0	1	0	1	0	0	0	1	0	0	0	1	0	0
-149	3	0	1	1	1	0	0	0	0	1	1	1	0	0	1	1	1
-150	3	0	0	1	0	0	0	0	0	0	1	1	1	0	0	0	0
-151	3	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-152	3	0	0	0	1	0	0	1	0	0	0	0	0	0	1	0	1
-153	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
-154	3	0	0	0	0	1	0	0	0	0	1	0	0	1	0	0	1
-155	3	1	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1
-156	3	0	0	1	0	1	1	0	0	0	0	0	0	0	0	1	0
-157	3	0	1	0	0	0	0	0	1	1	0	0	0	1	0	0	0
-158	3	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
-159	3	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-160	3	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-161	3	0	1	1	1	1	0	0	0	1	1	0	1	1	0	0	1
-162	3	0	1	0	1	0	0	0	1	0	0	0	1	0	0	0	0
-163	3	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-164	3	0	0	0	0	0	0	1	1	0	0	1	0	0	0	1	0
-165	3	0	1	1	1	0	0	1	0	0	1	1	1	1	0	0	1
-166	3	0	1	1	0	0	1	1	0	1	1	0	1	1	0	0	1
-167	3	0	0	0	0	0	0	0	0	0	1	0	1	1	0	1	0
-168	3	0	1	0	0	0	0	0	1	1	0	0	0	1	0	0	0
-169	3	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
-170	3	1	0	0	0	1	0	0	1	1	1	0	1	1	1	1	0
-171	3	1	1	0	1	1	0	1	1	1	1	0	0	0	0	0	1
-172	3	1	0	0	0	1	1	0	0	0	0	0	0	0	0	1	0
-173	3	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-174	3	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
-175	3	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-176	3	0	0	0	1	0	0	0	0	0	0	1	0	0	0	1	1
-177	3	1	0	0	1	1	1	0	0	1	1	0	1	1	0	1	0
-178	3	1	0	0	1	1	0	0	1	0	0	0	0	0	0	0	0
-179	3	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-180	3	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-181	3	0	0	1	0	0	0	0	0	0	1	1	1	0	0	0	0
-182	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-183	3	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
-184	4	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-185	4	0	1	0	1	1	1	0	1	0	1	0	0	0	1	1	1
-186	4	0	0	1	1	0	1	0	1	1	0	1	1	1	0	1	0
-187	4	1	1	1	1	1	0	1	0	1	0	0	0	1	1	0	0
-188	4	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-189	4	0	0	0	0	0	0	0	0	0	0	1	1	1	0	0	1
-190	4	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
-191	4	1	0	0	0	0	1	0	0	1	0	0	0	0	0	1	0
-192	4	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-193	4	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	1
-194	4	1	1	1	0	0	1	0	1	0	1	1	0	0	1	0	1
-195	4	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
-196	4	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
-197	4	1	0	0	1	0	1	1	0	0	0	0	0	0	0	0	0
-198	4	0	0	1	1	0	0	1	0	0	0	0	0	0	0	1	0
-199	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
-200	4	1	0	0	0	1	1	0	0	0	0	0	0	0	0	1	0
-201	4	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-202	4	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
-203	4	1	0	0	1	0	0	0	1	0	0	0	1	0	0	0	0
-204	4	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
-205	4	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-206	4	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0
-207	4	0	0	0	1	0	0	1	0	0	0	0	0	0	1	0	1
-208	4	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
-209	4	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
-210	4	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-211	4	0	0	0	0	1	0	0	1	1	0	0	0	1	0	0	0
-212	4	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
-213	4	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-214	4	1	0	0	0	1	1	0	0	0	0	0	0	0	0	1	0
-215	4	0	1	0	0	0	0	0	1	1	0	0	0	1	0	0	0
-216	4	0	0	0	0	0	0	1	1	0	0	1	0	0	0	1	0
-217	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-218	4	0	0	0	0	0	0	1	0	0	0	0	1	1	0	1	0
-219	4	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
-220	4	1	0	0	0	0	0	0	0	0	1	1	0	0	1	0	0
-221	4	0	0	0	1	0	0	1	0	0	0	0	0	0	1	0	1
-222	4	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-223	4	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-224	4	1	1	1	0	0	0	1	0	0	1	0	1	0	1	1	1
-225	4	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-226	4	0	1	0	1	1	0	1	1	1	0	1	0	1	1	0	0
-227	4	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
-228	4	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
-229	4	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
-230	4	1	0	1	1	1	0	0	1	0	1	0	0	1	0	1	1
-231	4	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
-232	4	1	1	1	0	1	1	1	0	0	1	0	0	0	0	1	1
-233	4	1	1	0	0	0	0	1	1	1	1	1	0	0	1	0	1
-234	4	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-235	4	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-236	4	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-237	4	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
-238	4	0	0	0	1	0	1	0	0	0	1	0	0	1	0	0	0
-239	4	0	0	0	1	0	0	0	0	0	1	0	0	0	1	1	0
-240	4	0	0	1	0	0	0	0	0	0	1	1	1	0	0	0	0
-241	4	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
-242	4	0	0	1	0	0	0	0	0	0	1	1	1	0	0	0	0
-243	4	0	0	0	0	1	1	0	1	1	1	1	1	1	0	1	0
-244	4	0	1	0	0	0	0	0	1	1	0	0	0	1	0	0	0
-245	5	1	0	1	1	0	0	1	1	1	0	1	1	0	1	0	0
-246	5	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
-247	5	0	0	0	1	0	0	1	0	0	0	0	0	0	1	0	1
-248	5	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-249	5	0	1	0	0	0	1	0	1	1	0	0	0	0	0	0	0
-250	5	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-251	5	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
-252	5	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
-253	5	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-254	5	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
-255	5	0	0	0	0	0	0	0	1	0	0	1	1	0	1	0	0
-256	5	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
-257	5	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-258	5	0	0	0	0	0	0	0	1	0	0	0	1	0	0	1	1
-259	5	1	0	0	1	0	0	0	0	0	0	0	0	1	0	0	1
-260	5	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
-261	5	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
-262	5	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
-263	5	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
-264	5	1	0	0	1	0	0	1	1	0	1	1	0	1	1	0	1
-265	5	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
-266	5	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
-267	5	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-268	5	0	1	0	0	0	0	0	1	1	0	0	0	1	0	0	0
-269	5	0	0	1	0	0	0	0	0	0	1	1	1	0	0	0	0
-270	5	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-271	5	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
-272	5	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-273	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
-274	5	0	1	1	0	0	0	1	1	1	0	1	0	1	1	0	1
-275	5	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-276	5	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-277	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
-278	5	1	1	1	0	1	0	1	0	1	0	1	0	0	1	1	0
-279	5	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
-280	5	1	1	1	1	0	1	1	0	0	0	1	1	0	1	0	0
-281	5	0	0	0	0	1	0	0	0	0	0	0	1	1	0	0	1
-282	5	1	1	0	1	1	0	1	0	0	1	0	1	1	0	0	1
-283	5	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-284	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-285	5	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
-286	5	1	1	0	1	0	0	0	0	0	1	0	0	0	0	0	0
-287	5	0	1	0	0	0	0	0	1	1	0	0	0	1	0	0	0
-288	5	0	0	0	0	1	0	1	0	0	0	1	0	1	0	0	0
-289	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-290	5	1	0	0	1	1	0	0	0	0	1	0	0	0	0	0	0
-291	5	0	0	1	1	0	0	0	0	0	0	0	0	1	0	1	0
-292	5	0	0	0	0	0	0	1	0	1	0	1	0	0	0	1	0
-293	5	1	1	1	1	1	1	0	1	0	1	0	1	0	0	0	0
-294	5	1	0	0	1	0	1	1	1	1	1	0	1	1	0	0	0
-295	5	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
-296	5	1	0	0	0	1	1	0	0	0	0	0	0	0	0	1	0
-297	5	0	1	1	0	0	0	0	1	0	0	0	1	0	0	0	0
-298	5	0	0	1	0	0	0	0	0	0	1	1	1	0	0	0	0
-299	5	1	1	1	1	1	0	1	0	1	0	0	1	0	0	0	1
-300	5	1	1	0	0	1	0	0	0	1	0	1	1	1	0	1	1
-301	5	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-302	5	1	0	0	0	1	1	0	0	0	0	0	0	0	0	1	0
-303	5	0	0	0	1	0	0	1	0	0	0	0	0	0	1	0	1
-304	5	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
-305	5	0	0	0	0	0	0	0	0	0	1	1	1	0	1	0	0
-306	6	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-307	6	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-308	6	0	1	1	0	0	1	1	0	0	1	1	1	1	0	1	0
-309	6	1	0	0	0	0	0	0	0	1	0	0	1	0	0	1	0
-310	6	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
-311	6	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-312	6	1	0	0	1	1	0	0	0	1	1	1	1	0	1	0	1
-313	6	1	0	0	0	1	1	0	0	0	0	0	0	0	0	1	0
-314	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
-315	6	0	0	0	1	0	0	1	0	0	0	0	0	0	1	0	1
-316	6	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
-317	6	0	0	1	1	0	0	0	0	0	1	0	0	0	0	0	1
-318	6	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
-319	6	0	0	0	0	1	0	0	0	0	0	1	1	1	0	0	0
-320	6	1	0	1	0	0	0	1	1	1	1	0	1	1	0	0	1
-321	6	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-322	6	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
-323	6	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
-324	6	0	1	1	1	1	1	0	0	1	1	0	1	0	0	0	1
-325	6	0	1	1	0	0	1	0	0	0	0	0	0	0	0	1	0
-326	6	1	1	0	0	0	0	1	0	0	0	0	1	0	0	0	0
-327	6	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
-328	6	0	0	0	1	0	0	0	1	0	0	1	0	1	0	0	0
-329	6	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-330	6	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
-331	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
-332	6	0	1	0	1	0	1	0	0	0	1	0	0	0	0	0	0
-333	6	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
-334	6	0	1	0	0	1	0	0	0	1	1	0	0	0	0	0	0
-335	6	0	1	1	1	0	0	1	1	0	0	1	0	0	1	1	1
-336	6	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
-337	6	0	0	1	0	1	0	0	0	0	1	0	1	0	0	0	0
-338	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
-339	6	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-340	6	0	1	0	0	0	0	0	1	1	0	0	0	1	0	0	0
-341	6	0	0	1	0	0	1	1	1	0	0	1	1	1	1	1	0
-342	6	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-343	6	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
-344	6	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-345	6	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
-346	6	0	0	1	0	0	1	1	0	1	0	0	0	0	0	0	0
-347	6	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
-348	6	0	0	0	1	0	0	1	0	0	0	0	0	0	1	0	1
-349	6	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
-350	6	0	0	1	0	0	0	0	0	0	1	1	1	0	0	0	0
-351	6	1	0	0	0	1	1	0	0	0	0	0	0	0	0	1	0
-352	6	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
-353	6	0	0	0	1	0	0	0	1	0	0	0	1	1	0	0	0
-354	6	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-355	6	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-356	6	0	0	0	0	0	1	1	0	1	1	0	1	1	1	1	1
-357	6	1	0	1	0	1	0	1	0	1	1	1	0	0	1	0	1
-358	6	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-359	6	0	0	1	0	0	1	1	1	0	0	0	0	0	0	0	0
-360	6	1	1	0	1	1	1	0	0	1	1	1	1	0	0	0	0
-361	6	1	1	1	0	1	0	0	1	1	0	0	0	1	1	0	1
-362	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
-363	6	0	0	1	0	0	0	0	0	0	1	1	1	0	0	0	0
-364	6	0	1	0	0	0	0	0	1	1	0	0	0	1	0	0	0
-365	6	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1
-366	6	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-367	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-368	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-369	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-370	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-371	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-______________
-
-
-Burning
-
-From 2000-2012 BioCON was burned approximately every other spring. Since 2013 BioCON is burned every year in the fall. BioCON is burned using the National Fire Academy prescribed burning method. All plots in each ring are burned in a wind driven pass ignited on the upwind side of the ring. Plots with vegetation that does not burn well during the first burn are spot burned. Years burned: 2000, 2002, 2003, 2005, 2007, 2009, 2011, 2012, 2013, 2014, 2015, 2016, 2017 (last updated 2017).
-______________
-
-
-Nitrogen limits productivity response to elevated carbon dioxide
-
-This conclusion was discovered by conducting a long-term experiment (Reich et al 2006), as over the first three years of the study (1998-2000) the CO2 fertilization effect was slightly larger in ambient than enriched N treatment.  However, in every year since (2001-2007), the CO2 fertilization effect was larger in the enriched N treatment. This provides support for the hypothesis (Hungate et al Science 2003) that IPCC predictions of future atmospheric CO2 concentrations are likely overestimating the extent the rising CO2 will stimulate net primary production across the earth&rsquo;s terrestrial ecosystems (and thereby overestimating the extent that this productivity response will increase C sequestration). 
-Increased diversity effects on biomass have remained stable over the first 10 years of the experiment, despite the dominant species in mixtures shifting over time as successional patterns led to continuously differing plant community composition.  This provides strong evidence that the effects of diversity of productivity are a result of functional diversity and not dependent upon any particular species or set of species.
-
-Reich, PB, SE Hobbie, T Lee, DS Ellsworth, D Tilman, JMH Knops, S Naeem, and J Trost. 2008. Nitrogen limitation constrains sustainability of ecosystem response to CO2. Nature 440:922.
-
-Hungate, BA, JS Dukes, MR Shaw, Y Luo, and CB Field. 2003. Nitrogen and Climate Change. Science 302: 1512-1513.
-______________
-
-
-Insect and Soil Microbial Communities
-
-There are complex impacts of plant diversity, CO2 and N on plant chemistry, litter decomposition, insect and soil microbial communities and soil nitrogen cycling and leaching, and disease incidence. For example, with Poa pratensis as the food supply, grasshopper consumption and growth rates were stimulated by elevated CO2 and N when Poa was raised in monocultures but much less so when it was raised as part of diverse 16-species plots (Figure 5; Strengbom et al. 2008) This suggests that complex multi-trophic responses to global change factors that are based on responses of individual plants or species grown in unrealistic settings may provide inaccurate indications of likely changes in more realistic conditions.. Similarly, CO2, N, and species richness had complex interactions over time with respect to the losses via leaching of inorganic and organic nitrogen from the ecosystem (Figures 6 and 7; Dijkstra et al. 2007). Additionally, among other findings, we observe marked differences in soil microbial communities of 16-species mixtures under ambient and elevated CO2.
-
-Strengbom, J, PB Reich and ME Ritchie. 2008. High plant species diversity mitigates CO2- and N-induced effects on grasshopper growth. Acta Oecologia 34(2):194-201.
-
-Dijkstra, F, J West, SE Hobbie, and P Reich. 2007. Dissolved inorganic and organic N leaching from a grassland field experiment: interactive effects of plant species richness, atmospheric CO2 and N fertilization. Ecology 88:490-500.
-______________
-
-
-Water x CO2 x N
-
-Results from the first year of the rainfall manipulation x CO2 experiment showed a strong effect of both CO2 and rainfall on productivity, but no interaction. In 2007, there were significant effects on biomass of CO2, water, and N treatments, but the hypothesized interactions were not detected.  For example, rainfall removal reduced total biomass (which reflects total production) by 17% and 18% in ambient and eCO2 respectively; whereas eCO2 increased biomass by 42% and 40% in AmbH2O and LowH2O water treatments, respectively. Thus, in this first year of the experiment there was no evidence to support either the ?classical? hypothesis that the water savings effect of eCO2 leads to greater stimulation of biomass under dry conditions, or our alternative hypothesis that a major reduction in water would largely eliminate any eCO2 stimulation of biomass. This was true even though elevated CO2 did increase leaf level water use efficiency and soil water content.  Thus, results did not support the widely held hypothesis that productivity response to rising CO2 will be greater in dry than wet conditions.  In contrast, there were strong complex interactions of water x CO2 on a number of other measures. For instance, photosynthesis was stimulated more by eCO2 in the LowH2O than AmbH2O treatment when soils were dry, with the reverse true when soils were wet. The eCO2 effect on soil water content was also pronounced when soils were dry and modest when soils were wet, and the responses varied with soil depth. In general, the eCO2-induced enhancement of soil water increased with depth, whereas the effect of rainfall manipulation on soil water content was greatest at the surface. Other than at the shallowest horizon, the eCO2 effects on soil water content were surprisingly of comparable magnitude as the effect of the &asymp;40% reduction in total rainfall achieved in the lowH2O treatment. Moreover, there were significant CO2 x water interactions at the lower two depths-- the stimulation of soil water content by eCO2 was larger in the lowH2O treatment. Shifts in soil moisture such as these can both drive, or be driven by, other changes in ecosystem properties under drought stress, including species composition or changes in soil microbial or plant function that in turn can change the direction and/or magnitude of the initial changes in soil water. Some such changes may take several years to play out, hence, only relatively long-term studies (such as this) can begin to characterize the patterns and elucidate the underlying mechanisms.  Data from 2008 are not available yet.
-______________
-
-
-Woody Encroachment into Grasslands
-
-Elevated CO2 acts to facilitate tree seedling survival in grassland dominated plots.  We have observed this over long-term periods in oak (e.g., Figure 4; Davis et al. 2007) in both supplementary experiments (Davis et al. 2007) and in direct seeding in BioCON (Schnitzer et al in prep), as well as for poplar seedlings planted in BioCON plots in 2008.  Remarkably, three different Populus species planted in spring all showed three-fold greater survival in elevated than ambient CO2 conditions during the 2008 growing season.  Oaks planted in the water x CO2 experiment also showed strong CO2 effects.  Those planted in 2007 had twice as high germination establishment under elevated than ambient CO2, with this CO2 effect only very marginally stronger in the low rainfall treatment than the ambient rainfall treatment.  However, of those seedlings that established, survival to the end of the growing season was markedly influence by CO2 (three-fold greater survival) in low rainfall conditions and unaffected by CO2 under ambient rainfall.  Thus, complex interactions between water and CO2 seem to be at play depending on the stage of woody establishment.
-
-Davis, M, P Reich, J Knoll, L Dooley, M Hundtoft, and I Attleson. 2007. Elevated atmospheric CO2: a nurse plant substitute for oak seedlings in absence of trees. Global Change Biology 13:2308-2316. 
-______________
-
-
-Nitrogen Treatment and 15N
-
-N enriched plots receive nitrogen addition 3 times per growing season: mid-May, mid-June, and mid-July. We used 4 g NH4NO3/ M2/year and 0.474g 15NH415NO3 /plot/year. First, we filled a small tin full of soil (approximately 100g) and put it in a bucket. We did this 31 times for ring one. Each ring will have a varying number of tins full of soil based on the number of plots in that ring that are receiving the nitrogen application. We then added 3.28g 15NH415NO3 in the ring one bucket (each ring will have a different amount depending on the number of N addition plots in that ring).  If the ring has 30 plots to receive the application 3.17g of 15NH415NO3 were added. If the ring has 32 plots to receive the application 3.39 g of 15 NH415NO3 were added. We mixed up the contents in the bucket and then placed a tin full of soil in each 2lb paper bag labeled with the plots for ring one.  We then placed 15.69g of NH4NO3 in each paper bag and mixed the soil with the15N and the NH4NO3 as much as possible. We then repeated this with the appropriate number of tins of soil per bucket and appropriate amounts of 15N for each subsequent ring.  When applying the fertilizer, we mentally created four equal squares in the plot and tried to place equal amounts of fertilizer in each of the four squares. 
-______________
-
-
-Location and site description
-
-BioCON is located at Lat. 45N, Long. 93W. The site is on a glacial outwash sandplain and production is nitrogen limited. The experiment was set up in a secondary successional old field after the existing vegetation was cleared. BioCON consists of 371 2-meter x 2-meter plots, arranged into 6 circular areas or ?rings? (20 meter diameter), each containing 61, 62, or 63 plots. 
-______________
-
-
-FACE System Schematic
-
-
-______________
-
-
-Water Treatment
-
-Began in 2007, applied in 48 9-species plots. To implement H2O treatments we designed and built 24 portable rain-out shelters that remove almost all rainfall (approximately 95-98%) from a given plot when they are in place The rainout shelters cover entire individual plots and consist of removable shelters that fit over permanent frames situated around the outside of each plot. The shelters have a slanted roof and four individual sidewalls. There are gaps below the roof and above and below the sidewalls to allow considerable air flow. To prevent runoff into adjacent plots, intercepted rain is channeled using gutters, and moved well outside each ring.
-The protocol is to put the shelters into place immediately prior to 45% (on average) of significant rainfall events between May 10-August 15 and remove them after the completion of these events. In the case of predicted nighttime precipitation, shelters are left in place until sunrise when they are removed. Shelters are in place much less than 1% of the time (nearly always under cloudy conditions and rarely during midday) and cumulatively reduce integrated PPFD (mid-May to mid-August) by approximately 0.05% (1/2000th) pools.
-
-______________
-
-
-Warming Treatment
-
-Started spring 2012 in 48 of the 9 species plots. Belowground, distributed resistance pins heat soils down to 80cm. Aboveground, an array of infrared lamps heat plant surfaces. The 2 degrees C increase in plant and soil temperature represents the minimum warming predicted over the next century for central North America, assuming moderate to high fossil fuel emissions increases (IPCC 2007).  Plots are warmed 24 h/d for approximately 8 months per year (roughly the time of year when ambient temperatures are greater than plus/minus 3 degrees C on average). This timing closely matches eCO2 treatment timing.
-Four ceramic infrared lamps (1000 W 240V, 245 mm long by 60 mm wide) are used above each warmed plot (HTelv). Lamp wattage output is regulated continuously by a proportional integrative derivative (PID) controlled dimmer system to maintain the plus 2 degrees C treatments and feedback control.
-Soil warming is accomplished through soil vertical warming pins. Twelve 0.81 m pins are installed vertically in each HTelv plot. Soil temperature has PID feedback control on an individual plot basis based on maintaining treatment temperature differential between plot warmed treatments and nearby ambient control plots fitted with dummy soil heating pins. In-ground thermo-couples at various depths in the 0-30 cm zone in the soil horizon connect via multiplexer to a Campbell Scientific controller to regulate a PID control that turns pins up or down. Temperature is monitored in close proximity to warming pins. The system uses the soil&rsquo;s inherent thermal diffusivity and mass to maintain treatment.
-______________
-
-
-FACE Technology
-
-BioCON uses a unique Free Air CO2 Enrichment (FACE) technology to elevate the atmospheric concentration of CO2 in the experimental plots.  The FACE system used in the BioCON experiment was developed at Brookhaven National Laboratory.  It uses natural wind conditions to carry CO2 enriched air across the vegetation.  Because the plants are outside in a more natural environment, the chamber effects normally created by enclosures such as greenhouses are reduced or eliminated. 
-
-Wind direction, wind velocity, and [CO2] are measured at the center of each plot and this information is used by a computer-controlled system to adjust CO2 flow rate to maintain the target elevated [CO2] (FACE System Schematic). Only pipes on the upwind side of the plots release CO2, unless wind velocity is very low, at that time CO2 is released alternately from adjacent release points.  Fast feedback algorithms avoid large overshoots in response to fluctuations in [CO2] and provide a stable elevation of [CO2].
-______________
-
-
-Experiment Design
-
-Main Experiment
-BioCON is a split-plot arrangement of treatments in a completely randomized design. CO2 treatment is the whole-plot factor and is replicated three times among the six rings. The subplot factors of species nmber and N treatment were assigned randomly and replicated in individual plots among the six rings. For each of the four combinations of CO2 and N levels, pooled across all rings, there were 32 randomly assigned replicates for the plots plant to 1 species (2 replicates per species), 15 for those planted to 4 species, 15 for 9 species, and 12 for 16 species. This arrangement applies to the ?main? experiment which utilizes 296 plots.
-
-Sub Experiment-Functional Diversity 
-There is also a sub experiment within BioCON&rsquo;s framework in which functional group and species assignments were not completely random; functional group diversity was controlled thereby limiting the choices for species composition. The spatial distribution of plots within the rings was still randomly chosen. The 296 main experiment plots are still utilized in analyses for this part of the study; the species assignments for these plots were necessary to complete the factorial design for functional vs. species diversity analyses. In total there are 371 plots in the BioCON experiment: 296 plots in the main randomly assigned experiment, 63 additional plots for controlling functional group diversity, and 12 bare ground plots, void of any plant species.
-
-Water Experiment: Implemented in 2007
-Water treatments were added to 48 of the BioCON 9-species plots. Half of these receive natural rain fall while the other half experience rain removal via portable rain shelters. The goal of this sub-experiment is to examine how inputs of water, CO2 and N interact to influence soil water availability, soil-plant interactions that influence available N, interactions with the belowground community of decomposers and mutualists, and thus net primary production (NPP) and plant and soil C pools.
-
-Warming Experiment: Implemented spring 2012 
-Uses 48 of the BioCON 9-species plots. These plots now contain 6-7 species on average. Although the major focus of this project is on Warming treatment plots, understanding of the main, interactive and indirect effects of each of the global change factors (diversity, CO2, N, temperature, rainfall) in BioCON will be gleaned from observations of responses of microbes, plants or other organisms in the other 330 plots in BioCON, each with some subset of the treatments in the full factorial experiment that is the core of this project.
-The warming treatment is applied pairing below and aboveground heating to elevate ecosystem temperature.  The treatments continuously elevate growing season plant and soil temperatures by approximately 2 degrees C. 
-
-
-
-______________
-
-
-Weeding
-
-Species composition is controlled by hand weeding 2-4 times per growing season.  Species distribution cards are used to identify a list of target species for each plot; all non-target species are removed.   Weeding tools are used if needed to try and remove roots of each non-target plant without damaging other plants surrounding it.  If soil is disturbed during the process of extracting plants, it&rsquo;s smoothed out afterwards.  Portable elevated weeding benches that span the plot are used to prevent stepping or kneeling in the plots during weeding. 
-______________
-
-
-Initial Seeding and Biodiversity Treatment
-
-Plots were planted in 1997. Each plot was planted with 12g/m2 of seed, split equally among the planted species. In 1997 the plots were watered regularly to ensure germination and establishment. The plots were not watered after 1997. The 16 species in the experiment were chosen from the following criteria: A species had to (1) be native or naturalized to the area; (2) have a proven track record of establishment in previous experiments at Cedar Creek; (3) belong to 1 of 4 functional groups: leguminous forbs, non-leguminous forbs; C3 grasses, and C4 grasses. 
-
-Species	Functional Group
-Achillea millefolium	non-leguminous forb
-Agropyron repens	C-3 grass
-Amorpha canescens	leguminous forb
-Andropogon gerardi	C-4 grass
-Anemone cylindrica	non-leguminous forb
-Asclepias tuberosa	non-leguminous forb
-Bouteloua gracilis	C-4 grass
-Bromus inermis	C-3 grass
-Koeleria cristata	C-3 grass
-Lespedeza capitata	leguminous forb
-Lupinus perennis	leguminous forb
-Petalostemum villosum	leguminous forb
-Poa pratensis	C-3 grass
-Schizachyrium scoparium	C-4 grass
-Solidago rigida	non-leguminous forb
-Sorghastrum nutans	C-4 grass
-______________
-
-
-Carbon Dioxide Treatment
-
-Elevated CO2 treatment rings 1, 3 and 5 receive air with a target CO2 concentration set at 550 ppm in 1997, gradually rising to 565 ppm in 2013 to address rising carbon dioxide concentrations in the atmosphere. The ambient CO2 treatment rings 2, 4 and 6 are ?fumigated&rsquo; with ambient air with no experimental CO2 addition in order to protect against erroneous results caused by the FACE equipment (see FACE technology). Elevated CO2 treatments are applied seven days per week, during daylight hours, for the full growing season (roughly May 1 to October 15).
-______________
-
-
+Year	Experiment	Plant ID	Maternal plot	Maternal CO2	Maternal N	Offspring ring	Offspring CO2	Seed mass	Emergence date	10 July leaf #	10 July leaflet length	August leaf #	August leaflet length	root length (cm)	aboveground biomass (g)2006	E141	4048				3	elevated		13	1	17	1	532006	E141	5212	30	elevated	elevated	5	elevated	0.0257	13	4	24	4	26	15	0.272006	E141	5104	33	elevated	ambient	5	elevated	0.0259	16	4	19	6	26	14.5	0.142006	E141	4323	13	elevated	elevated	3	elevated	0.0278	19	4	23	7	302006	E141	5616	13	elevated	elevated	6	ambient	0.0278	19	3	23	6	25	11.5	0.242006	E141	5808	13	elevated	elevated	6	ambient	0.026	19	3	15	4	27	11.5	0.192006	E141	3406	23	elevated	ambient	1	elevated	0.0276	13	4	18	4	22	14	0.212006	E141	3467	23	elevated	ambient	1	elevated	0.0261	16	3	17	4	22	2.5	0.142006	E141	3902	23	elevated	ambient	2	ambient	0.0258	23	3	20	4	20	14	0.172006	E141	4055	23	elevated	ambient	3	elevated	0.0244	13			5	24	14.5	0.22006	E141	4195	23	elevated	ambient	3	elevated	0.0257	132006	E141	4272	23	elevated	ambient	3	elevated	0.023	13	4	12	6	23	12	0.272006	E141	4438	23	elevated	ambient	3	elevated	0.0285	13	4	18	5	24	13.5	0.192006	E141	4535	23	elevated	ambient	4	ambient	0.0232	16	3	15	3	19	14.5	0.062006	E141	4713	23	elevated	ambient	4	ambient	0.0246	13	3	16	4	21	15	0.182006	E141	4746	23	elevated	ambient	4	ambient	0.0264	16	3	15	4	20	14	0.142006	E141	5010	23	elevated	ambient	5	elevated	0.0303	13	3	19	4	25	14	0.342006	E141	5254	23	elevated	ambient	5	elevated	0.0297	19	3	19	5	22	15.5	0.232006	E141	5735	23	elevated	ambient	6	ambient	0.0245	23	3	19	3	24	12	0.172006	E141	3712	33	elevated	ambient	2	ambient	0.0303	11.5	3	24	5	28	13.5	0.242006	E141	3950	33	elevated	ambient	2	ambient	0.0287	10	5	17	6	26	13	0.192006	E141	4868	33	elevated	ambient	4	ambient	0.0259	19	2	15	3	21	14	0.182006	E141	5631	33	elevated	ambient	6	ambient	0.0278	16	3	13	4	23	16	0.112006	E141	5707	33	elevated	ambient	6	ambient	0.0315	13	5	21	6	24	13.5	0.222006	E141	5868	33	elevated	ambient	6	ambient	0.0285	16	3	19	4	24	16	0.272006	E141	3102	43	elevated	elevated	1	elevated	0.0214	16	3	15	4	28	14.5	0.22006	E141	3673	43	elevated	elevated	2	ambient	0.0255	10	3	21	4	242006	E141	3752	43	elevated	elevated	2	ambient	0.024	16	4	24	7	24	13.5	0.222006	E141	4052	43	elevated	elevated	3	elevated	0.0225	162006	E141	3097	45	elevated	ambient	1	elevated	0.0287	10	3	212006	E141	3109	45	elevated	ambient	1	elevated	0.0219	23	3	15	4	28	14	0.252006	E141	3230	45	elevated	ambient	1	elevated	0.025	23	2	8	3	23	15	0.192006	E141	3240	45	elevated	ambient	1	elevated	0.0257	23	2	5	3	30	16.5	0.162006	E141	3768	45	elevated	ambient	2	ambient	0.0237	13	4	20	5	25	12.5	0.252006	E141	4131	45	elevated	ambient	3	elevated	0.025	13	4	23	6	24	15	0.412006	E141	4605	45	elevated	ambient	4	ambient	0.0293	19	3	19	4	27	13	0.212006	E141	5067	45	elevated	ambient	5	elevated	0.0315	10	5	24 (closed)			14.5	0.192006	E141	5828	45	elevated	ambient	6	ambient	0.0292	16	5	19	7	21	14	0.262006	E141	3115	51	elevated	ambient	1	elevated	0.0291	23	3	23	4	28	15.5	0.162006	E141	3390	51	elevated	ambient	1	elevated	0.0284	13	3	19	4	25	15	0.192006	E141	3878	51	elevated	ambient	2	ambient	0.0292	13	3	18	5	23	15.5	0.22006	E141	4649	51	elevated	ambient	4	ambient	0.0318	13	3	19			12	0.22006	E141	4751	51	elevated	ambient	4	ambient	0.0275	16	3	16	4	25	13	0.192006	E141	5700	51	elevated	ambient	6	ambient	0.0306	13	2	20	4	22	14.5	0.212006	E141	5740	51	elevated	ambient	6	ambient	0.0307	13	3	23	6	24	12	0.22006	E141	3157	52	elevated	elevated	1	elevated	0.0275	13					15.52006	E141	4650	52	elevated	elevated	4	ambient	0.0157	16	3	21	4	24	16	0.162006	E141	4845	52	elevated	elevated	4	ambient	0.0276	13	3	20	4	20	13.5	0.142006	E141	5173	52	elevated	elevated	5	elevated	0.0239	10	4	232006	E141	5400	52	elevated	elevated	5	elevated	0.0289	19	2	21	5	24	16	0.212006	E141	5536	52	elevated	elevated	6	ambient	0.0268	16	3	20	4	19	9	0.22006	E141	5734	52	elevated	elevated	6	ambient	0.0247	23	3	15	3	21	11.5	0.152006	E141	4175	64	ambient	elevated	3	elevated	0.0295	26	2	13	5	29	10	0.232006	E141	4347	64	ambient	elevated	3	elevated	0.0252	13	4	15	5	29	14	0.182006	E141	4683	64	ambient	elevated	4	ambient	0.0266	262006	E141	4826	64	ambient	elevated	4	ambient	0.0335	10	7	15	7	19	10	0.232006	E141	5674	64	ambient	elevated	6	ambient	0.0268	16	3	shrivelled2006	E141	5803	64	ambient	elevated	6	ambient	0.0294	10	4	19	6	24	15	0.342006	E141	3129	67	ambient	ambient	1	elevated	0.0272	10	5	23	6	27	15	0.372006	E141	3130	67	ambient	ambient	1	elevated	0.0234	10	4	20	6	30	15.5	0.42006	E141	3174	67	ambient	ambient	1	elevated	0.0239	13	3	21	5	28	14	0.432006	E141	4023	67	ambient	ambient	3	elevated	0.0243	13	3	22	5	25	13.5	0.282006	E141	4104	67	ambient	ambient	3	elevated	0.0278	13	4	23	5	29	13	0.332006	E141	4130	67	ambient	ambient	3	elevated	0.0288	16	4	21	7	29	13	0.32006	E141	4249	67	ambient	ambient	3	elevated	0.0255	16	2	13	4	22	14	0.172006	E141	5147	67	ambient	ambient	5	elevated	0.0253	10	4	20	5	28	16	0.352006	E141	5667	67	ambient	ambient	6	ambient	0.0257	19	3	15	5	20	16.5	0.122006	E141	3545	69	ambient	ambient	2	ambient	0.0244	13	3	28	4	25	14	0.212006	E141	3832	69	ambient	ambient	2	ambient	0.0225	262006	E141	4068	69	ambient	ambient	3	elevated	0.0258	13	3	22	4	252006	E141	4460	69	ambient	ambient	4	ambient	0.0252	10	3	23	6	21	12	0.182006	E141	4766	69	ambient	ambient	4	ambient	0.0228	16	3	19	5	23	14.5	0.182006	E141	4797	69	ambient	ambient	4	ambient	0.0251	19	3	19	5	25	15.5	0.222006	E141	4834	69	ambient	ambient	4	ambient	0.0245	16	4	23	6	25	13.5	0.192006	E141	5044	69	ambient	ambient	5	elevated	0.0243	23	3	18	4	26	13.5	0.312006	E141	5349	69	ambient	ambient	5	elevated	0.0253	16	4	21	6	28	15	0.32006	E141	3418	104	ambient	ambient	1	elevated	0.0245		3	9	4	26	16	0.222006	E141	3981	104	ambient	ambient	3	elevated	0.0225	13	3	23	4	29	9	0.282006	E141	4089	104	ambient	ambient	3	elevated	0.0248	13	3	21	5	30	9.5	0.292006	E141	4587	104	ambient	ambient	4	ambient	0.0185	13	3	19	4	24	14.5	0.182006	E141	3029	107	ambient	ambient	1	elevated	0.021	23	3	20	5	27	14.5	0.152006	E141	3255	107	ambient	ambient	1	elevated	0.0227	16	4	22	6	29	13	0.422006	E141	3667	107	ambient	ambient	2	ambient	0.0204	19	3	15 (herbvy)	4	28	14	0.132006	E141	5191	107	ambient	ambient	5	elevated	0.0203	10	3	26	5	32	17	0.332006	E141	5688	107	ambient	ambient	6	ambient	0.0245	16	3	14	3	23	12.5	0.132006	E141	3045	108	ambient	elevated	1	elevated	0.0224	23	4	22	6	32	12.5	0.332006	E141	3068	108	ambient	elevated	1	elevated	0.0204	10	4	30	4	32	17	0.362006	E141	4588	108	ambient	elevated	4	ambient	0.0197	16	3	11	6	20	16	0.192006	E141	4714	108	ambient	elevated	4	ambient	0.0231	19	3	16	6	25	14	0.192006	E141	3349	110	ambient	elevated	1	elevated	0.0317	16	3	22	4	27	14	0.42006	E141	4492	110	ambient	elevated	4	ambient	0.0312	16	3	21	4	29	12.5	0.212006	E141	5851	110	ambient	elevated	6	ambient	0.0346	10	4	25	5	28	16	0.232006	E141	3942	118	ambient	elevated	2	ambient	0.0274	162006	E141	4744	118	ambient	elevated	4	ambient	0.0297	132006	E141	3542	130	elevated	elevated	2	ambient	0.0228	13	3	20	4	24	14.5	0.142006	E141	3897	130	elevated	elevated	2	ambient	0.024	13	4	23	5	25	14.5	0.332006	E141	4404	130	elevated	elevated	3	elevated	0.021	19	3	21	6	30	13.5	0.322006	E141	4455	130	elevated	elevated	4	ambient	0.0219	13	3	20	5	24	13.5	0.172006	E141	4536	130	elevated	elevated	4	ambient	0.0228	16	4	13	5	23	14.5	0.192006	E141	4709	130	elevated	elevated	4	ambient	0.0224	13	3	20	5	27	15	0.192006	E141	5227	130	elevated	elevated	5	elevated	0.0204	10	3	26	5	34	8.5	0.412006	E141	5436	130	elevated	elevated	6	ambient	0.0218	13	5	18			16	0.232006	E141	5718	130	elevated	elevated	6	ambient	0.0237	10	3	22	4	25	14	0.182006	E141	5751	130	elevated	elevated	6	ambient	0.0225	16	3	15	3	25	15	0.182006	E141	5829	130	elevated	elevated	6	ambient	0.0199	13	3	22	5	262006	E141	3234	147	elevated	ambient	1	elevated	0.0217	10	2	20	4	25	16	0.312006	E141	3374	147	elevated	ambient	1	elevated	0.0231	16	3	20	5	30	14	0.342006	E141	3381	147	elevated	ambient	1	elevated	0.0206	10	4	21	7	26	16	0.362006	E141	3762	147	elevated	ambient	2	ambient	0.025	10	5	23	6	22	14	0.282006	E141	4236	147	elevated	ambient	3	elevated	0.0218	10	3	20	6	22	15	0.342006	E141	4441	147	elevated	ambient	4	ambient	0.0205	13	3	19	3	20	14.5	0.162006	E141	4777	147	elevated	ambient	4	ambient	0.0232	16	3	20	4	25	15.5	0.252006	E141	4981	147	elevated	ambient	5	elevated	0.0224	13	3	shriveled			15	0.172006	E141	5531	147	elevated	ambient	6	ambient	0.0192	10	3	20	4	28	14.5	0.142006	E141	5590	147	elevated	ambient	6	ambient	0.0249	16	6	21	6	25	15.5	0.292006	E141	3223	151	elevated	elevated	1	elevated	0.0285	23	2	13 (herbvy)	5	26	16.5	0.22006	E141	3248	151	elevated	elevated	1	elevated	0.0308	13	4	20	5	28	16	0.322006	E141	3361	151	elevated	elevated	1	elevated	0.0312	16	5	30	5	36	15	0.382006	E141	4311	151	elevated	elevated	3	elevated	0.0281	16	5	24	8	34	14	0.372006	E141	5597	151	elevated	elevated	6	ambient	0.032	13	3	24	4	25	10	0.272006	E141	5617	151	elevated	elevated	6	ambient	0.0294	13	5	27	7	25	14	0.242006	E141	3069	163	elevated	ambient	1	elevated	0.0272	16	4	16	5	31	15.5	0.22006	E141	3494	163	elevated	ambient	2	ambient	0.0292	13	4	24	5	24	16	0.22006	E141	4067	163	elevated	ambient	3	elevated	0.0242	13	4	20	6	25	16	0.22006	E141	5314	163	elevated	ambient	5	elevated	0.0254	10	4	24	5	30	14.5	0.272006	E141	5452	163	elevated	ambient	6	ambient	0.0275	19	3	14	5	20	15	0.182006	E141	5514	163	elevated	ambient	6	ambient	0.0319	10	5	222006	E141	5671	163	elevated	ambient	6	ambient	0.0272	16	4	16	7	22	16	0.132006	E141	5760	163	elevated	ambient	6	ambient	0.0251	10	4	24	5	25	14	0.322006	E141	3632	173	elevated	ambient	2	ambient	0.0237	13	3	25	5	30	13	0.232006	E141	3841	173	elevated	ambient	2	ambient	0.0267	262006	E141	4444	173	elevated	ambient	4	ambient	0.0252	13	3	12	4	21	13.5	0.142006	E141	4477	173	elevated	ambient	4	ambient	0.0255	10	4	22	4	232006	E141	5033	173	elevated	ambient	5	elevated	0.0268		1	122006	E141	3903	175	elevated	elevated	2	ambient	0.0292	132006	E141	4373	175	elevated	elevated	3	elevated	0.0267	13	3	25	6	28	13	0.312006	E141	4738	175	elevated	elevated	4	ambient	0.0242	19	2	10	3	21	6	0.132006	E141	5359	175	elevated	elevated	5	elevated	0.0282	10	3	20	4	26	14	0.192006	E141	5535	175	elevated	elevated	6	ambient	0.0262	13	3	19	4	20	14	0.252006	E141	5758	175	elevated	elevated	6	ambient	0.0232	16	3	16	4	19	14.5	0.142006	E141	3107	179	elevated	ambient	1	elevated	0.0247	23	2	immature2006	E141	4538	179	elevated	ambient	4	ambient	0.0239	13	3	19	4	24	15	0.22006	E141	4667	179	elevated	ambient	4	ambient	0.0253	192006	E141	5394	180	elevated	elevated	5	elevated	0.0282	16	5	21	6	26	14.5	0.32006	E141	4577	184	ambient	ambient	4	ambient	0.0276	232006	E141	4866	184	ambient	ambient	4	ambient	0.0269	19	3	12	6	21	15.5	0.22006	E141	5076	184	ambient	ambient	5	elevated	0.0254	23	4	24	5	18	16	0.322006	E141	4002	188	ambient	ambient	3	elevated	0.0218	13	3	19	6	37	10.5	0.32006	E141	4293	188	ambient	ambient	3	elevated	0.0194	16	3	18	4	28	17	0.322006	E141	4370	188	ambient	ambient	3	elevated	0.0194	16	3	19	4	24	9.5	0.222006	E141	4702	188	ambient	ambient	4	ambient	0.0242	19	3	16	4	23	13.5	0.212006	E141	4801	188	ambient	ambient	4	ambient	0.0214	16	3	19	4	30	12	0.212006	E141	5112	188	ambient	ambient	5	elevated	0.0219	19	3	18	4	25	10	0.332006	E141	5175	188	ambient	ambient	5	elevated	0.021	19	3	21	4	312006	E141	3099	201	ambient	ambient	1	elevated	0.0229	23	4	22	4	25	17	0.162006	E141	3159	201	ambient	ambient	1	elevated	0.0194	16	3	29	4	24	13.5	0.172006	E141	3520	201	ambient	ambient	2	ambient	0.0229	10	4	23	5	25	16	0.212006	E141	3653	201	ambient	ambient	2	ambient	0.0236	10	5	24	7	25	13.5	0.292006	E141	3909	201	ambient	ambient	2	ambient	0.0256	13	4	23	5	23	15	0.242006	E141	4637	201	ambient	ambient	4	ambient	0.0199	16	2	19	3	20	15.5	0.12006	E141	4954	201	ambient	ambient	5	elevated	0.0238	10	5	27	7	31	13.5	0.442006	E141	5278	201	ambient	ambient	5	elevated	0.0212	13	4	23	6	28	14	0.282006	E141	5457	201	ambient	ambient	6	ambient	0.0237	10	3	19	4	27	16	0.22006	E141	5699	201	ambient	ambient	6	ambient	0.0226	16	2	15	3	20	15.5	0.112006	E141	4003	205	ambient	elevated	3	elevated	0.0268	13	3	22	5	28	13	0.232006	E141	4458	205	ambient	elevated	4	ambient	0.0248	10	3	20	6	20	15	0.22006	E141	5141	205	ambient	elevated	5	elevated	0.0252	13	3	242006	E141	5198	205	ambient	elevated	5	elevated	0.0239	10	3	25	4	28	15	0.292006	E141	5379	205	ambient	elevated	5	elevated	0.0244	19	3	20 (shrivelled)2006	E141	5510	205	ambient	elevated	6	ambient	0.0251	26	2	12	5	18	15	0.152006	E141	5843	205	ambient	elevated	6	ambient	0.0226	19	3	19	5	21	14.5	0.12006	E141	5148	213	ambient	elevated	5	elevated	0.0333	13	4	22	4	24	16.5	0.322006	E141	5418	213	ambient	elevated	6	ambient	0.0336	16	4	22	4	26	15	0.252006	E141	3025	222	ambient	ambient	1	elevated	0.0254	232006	E141	3116	222	ambient	ambient	1	elevated	0.025	23	3	20	4	30	13.5	0.382006	E141	3920	222	ambient	ambient	2	ambient	0.022	16	3	20			14	0.162006	E141	5741	222	ambient	ambient	6	ambient	0.0257	19	3	13	4	24	12	0.182006	E141	5743	222	ambient	ambient	6	ambient	0.0229	13	3	24	4	26	14	0.182006	E141	3694	234	ambient	elevated	2	ambient	0.0234	19	4	25	4	22	12.5	0.172006	E141	5049	234	ambient	elevated	5	elevated	0.0253	16	6	26	9	27	16	0.372006	E141	5385	234	ambient	elevated	5	elevated	0.0237	10	5	24	6	27	16	0.362006	E141	5417	234	ambient	elevated	6	ambient	0.0181	16	3	19	4	232006	E141	5523	234	ambient	elevated	6	ambient	0.0221	23	3	13	4	23	14.5	0.12006	E141	3440	236	ambient	elevated	1	elevated	0.0187	10	4	19	7	24	16	0.282006	E141	4712	236	ambient	elevated	4	ambient	0.0211	13	3	15	5	21	15.5	0.162006	E141	4759	250	elevated	ambient	4	ambient	0.0302	16	3	18	4	26	16	0.222006	E141	4968	250	elevated	ambient	5	elevated	0.0345	10	4	22	7	28	16.5	0.342006	E141	5117	250	elevated	ambient	5	elevated	0.0307	13	4	21	5	26	15.5	0.382006	E141	5328	250	elevated	ambient	5	elevated	0.0295	16	3	20	5	32	14.5	0.312006	E141	5694	250	elevated	ambient	6	ambient	0.0294	19	2	14	6	22	13.5	0.192006	E141	4203	253	elevated	elevated	3	elevated	0.0264	10	6	23 (herbvy)	8	28	14	0.222006	E141	5728	253	elevated	elevated	6	ambient	0.0258	10	4	22	5	24	14	0.242006	E141	3163	267	elevated	elevated	1	elevated	0.0294	13	4	24	6	22	15.5	0.242006	E141	4657	267	elevated	elevated	4	ambient	0.0262	13	4	22	4	25	15	0.262006	E141	4699	267	elevated	elevated	4	ambient	0.0291	13	4	19	5	24	14.5	0.152006	E141	3400	272	elevated	ambient	1	elevated	0.022	23	3	8	4	21	13	0.172006	E141	4047	272	elevated	ambient	3	elevated	0.0257	10	4	25	5	30	14.5	0.422006	E141	4193	272	elevated	ambient	3	elevated	0.0286	16	4	20	7	22	14	0.312006	E141	3431	275	elevated	elevated	1	elevated	0.0236	13	3	12	6	20	13	0.212006	E141	3326	283	elevated	ambient	1	elevated	0.022	10	5	29	7	34	14	0.392006	E141	3569	283	elevated	ambient	2	ambient	0.0212	10	5	25	8	25	15	0.292006	E141	3923	283	elevated	ambient	2	ambient	0.0209	10	3	25	5	26	15	0.242006	E141	3928	283	elevated	ambient	2	ambient	0.0244	10	6	13	9	24	15.5	0.32006	E141	5115	283	elevated	ambient	5	elevated	0.0196	16	3	25	7	28	12.5	0.32006	E141	5338	283	elevated	ambient	5	elevated	0.0201	23	2	10	4	25	13	0.122006	E141	5540	283	elevated	ambient	6	ambient	0.021	13	4	19	6	242006	E141	3294	301	elevated	elevated	1	elevated	0.0235	13	6	20	11	37	15.5	0.282006	E141	3556	301	elevated	elevated	2	ambient	0.0235	13	4	11	7	22	13	0.152006	E141	3763	301	elevated	elevated	2	ambient	0.0251	10	4	26	5	26	6.5	0.22006	E141	4013	301	elevated	elevated	3	elevated	0.0223	10	4	22	9	29	13.5	0.322006	E141	4248	301	elevated	elevated	3	elevated	0.0188	16	3	18	5	24	14	0.082006	E141	4924	301	elevated	elevated	5	elevated	0.0235	16	6	18	8	222006	E141	5302	301	elevated	elevated	5	elevated	0.0186	16	3	21	5	31	14.5	0.172006	E141	5511	301	elevated	elevated	6	ambient	0.0248	13	4	21	5	22	12.5	0.192006	E141	5600	301	elevated	elevated	6	ambient	0.0234	13	3	18	7	25	16	0.252006	E141	3215	307	ambient	elevated	1	elevated	0.0271	16	3	20			16.5	0.052006	E141	4229	307	ambient	elevated	3	elevated	0.0271	13	4	24	5	25	14.5	0.322006	E141	4326	307	ambient	elevated	3	elevated	0.0258	16	3	19	4	24	16	0.232006	E141	4481	307	ambient	elevated	4	ambient	0.0263	13	3	16	4	222006	E141	5070	311	ambient	elevated	5	elevated	0.0192	10	4	22	7	27	16	0.422006	E141	5341	311	ambient	elevated	5	elevated	0.0222	26			eaten2006	E141	3925	321	ambient	elevated	2	ambient	0.0217	23	3	12	4	24	16	0.142006	E141	3971	321	ambient	elevated	3	elevated	0.0237	13	3	21	5	25	14	0.262006	E141	4673	321	ambient	elevated	4	ambient	0.0206	16	3	22	4	22	14	0.152006	E141	5032	321	ambient	elevated	5	elevated	0.0244	16	3	21	5	30	15	0.282006	E141	5525	321	ambient	elevated	6	ambient	0.0246	16	3	172006	E141	5854	321	ambient	elevated	6	ambient	0.0234	16	3	21	3	182006	E141	3671	344	ambient	ambient	2	ambient	0.029	16	4	24	5	28	14.5	0.272006	E141	4233	344	ambient	ambient	3	elevated	0.0236	19	2	21	4	32	15.5	0.22006	E141	3482	354	ambient	elevated	2	ambient	0.0252	16	2	10	5	20	3	0.082006	E141	3702	355	ambient	ambient	2	ambient	0.022	16	4	23	6	25	14	0.212006	E141	3907	355	ambient	ambient	2	ambient	0.0255	19	3	20	4	22	15	0.162006	E141	4137	355	ambient	ambient	3	elevated	0.0277	13	5	24	7	30	10	0.382006	E141	4446	355	ambient	ambient	4	ambient	0.027	13	3	22	4	21	14	0.222006	E141	4883	355	ambient	ambient	4	ambient	0.024	13	3	20	6	24	12.5	0.242006	E141	5486	355	ambient	ambient	6	ambient	0.0283	13	4	21	6	26	14	0.34
